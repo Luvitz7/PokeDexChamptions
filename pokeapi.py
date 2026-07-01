@@ -21,8 +21,8 @@ def get_pokemon_details(data):
         pokemon = {
             "name": data.get("name"),
             "id": data.get("id"),
-            "height": data.get("height"),
-            "weight": data.get("weight"),
+            "height": data.get("height")/10,  # Convert decimeters to meters
+            "weight": data.get("weight")/10,  # Convert hectograms to kilograms
             "types": [t["type"]["name"] for t in data.get("types", [])],
             "stats": {stat["stat"]["name"]: stat["base_stat"] for stat in data.get("stats", [])},
             "sprites": data.get("sprites", {}).get("front_default"),
@@ -54,6 +54,5 @@ def show_pokemon_details(pokemon, stats_poke_champions):
         }
 
     return show_pokemon
-
 
 

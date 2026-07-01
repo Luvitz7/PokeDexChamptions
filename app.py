@@ -11,6 +11,18 @@ intents.message_content = True
 
 bot = commands.Bot(command_prefix="$", intents=intents)
 
+def format_name(name):
+    return name.replace("-", " ").title()
+
+STAT_ICONS = {
+    "hp": "❤️",
+    "attack": "⚔️",
+    "defense": "🛡️",
+    "special-attack": "✨",
+    "special-defense": "🔰",
+    "speed": "⚡"
+}
+
 @bot.command()
 async def poke(ctx, *arg):
     if not arg:
@@ -26,14 +38,16 @@ async def poke(ctx, *arg):
         pokemon, stats_poke_champions, moves_pokemon = get_pokemon_details(data)
         show_pokemon = show_pokemon_details(pokemon, stats_poke_champions)
 
-        embed = discord.Embed(title=show_pokemon["name"].capitalize(), color=discord.Color.blue())
-        embed.set_thumbnail(url=show_pokemon["sprites"])
-        embed.add_field(name="Height", value=show_pokemon["height"], inline=True)
-        embed.add_field(name="Weight", value=show_pokemon["weight"], inline=True)
-        embed.add_field(name="Abilities", value='\n'.join([ability.capitalize() for ability in pokemon["abilities"]]), inline=False)
-        embed.add_field(name="Types", value=', '.join([t.capitalize() for t in show_pokemon["types"]]), inline=False)
-        embed.add_field(name="Stats", value='\n'.join([f"{stat.capitalize()}: {value}" for stat, value in show_pokemon["stats"].items()]), inline=False)
 
+        embed = discord.Embed(title=format_name(show_pokemon["name"]), color=discord.Color.blue())
+        embed.set_thumbnail(url=show_pokemon["sprites"])
+        embed.add_field(name="Height", value=(f"{show_pokemon['height']}m"), inline=True)
+        embed.add_field(name="Weight", value=(f"{show_pokemon['weight']}kg"), inline=True)
+        embed.add_field(name="Abilities", value='\n'.join(format_name(ability) for ability in pokemon["abilities"]), inline=False)
+        embed.add_field(name="Types", value=', '.join(format_name(t) for t in show_pokemon["types"]), inline=False)
+        bst = sum(stats_poke_champions.values())
+        embed.add_field(name="Base Stat Total", value=(f"📊 BST: {bst}"), inline=False)
+        embed.add_field(name="Stats", value='\n'.join([f"{STAT_ICONS.get(stat, '')} {format_name(stat)}: {value}" for stat, value in show_pokemon["stats"].items()]), inline=False)
 
         await ctx.send(embed=embed)
 
