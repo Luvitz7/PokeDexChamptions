@@ -10,13 +10,10 @@ DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
 with open("data/moves_en.json", "r", encoding="utf-8") as file:
     MOVES = json.load(file)
 
-intents = discord.Intents.default()
-intents.message_content = True
+with open("data/abilities_en.json", "r", encoding="utf-8") as file:
+    ABILITIES = json.load(file)
 
-bot = commands.Bot(command_prefix="$", intents=intents)
-
-def format_name(name):
-    return name.replace("-", " ").title()
+MAX_LIST_LENGTH = 10  # Maximum number of items to display in the list
 
 STAT_ICONS = {
     "hp": "❤️",
@@ -47,6 +44,14 @@ TYPE_COLORS = {
     "steel": 0xB7B7CE,
     "fairy": 0xD685AD
 }
+
+intents = discord.Intents.default()
+intents.message_content = True
+
+bot = commands.Bot(command_prefix="$", intents=intents)
+
+def format_name(name):
+    return name.replace("-", " ").title()
 
 def get_type_color(types):
     if not types:
@@ -110,6 +115,25 @@ async def poke_move(ctx, *args):
     else:
         await ctx.send(f"No se encontró información para el movimiento '{' '.join(args)}'. Por favor, verifica el nombre e inténtalo de nuevo.")
 
+@bot.command()
+async def poke_ability(ctx, *args):
+    if not args:
+        await ctx.send("Menciona el nombre de la habilidad.")
+        return
+        
+    ability_name = ' '.join(args).lower()
+    ability_info = next((ability for ability in ABILITIES if ability["name"].lower() == ability_name), None)
+    
+    if ability_info:
+        embed = discord.Embed(title=format_name(ability_info["name"]), color=discord.Color.blue())
+        embed.add_field(name="Effect", value=ability_info["effect"], inline=False)
+        embed.add_field(name="Pokémon with this Ability", value='\n'.join(format_name(" • "+ pokemon) for pokemon in ability_info["pokemons"][:MAX_LIST_LENGTH]), inline=False)
+        if len(ability_info["pokemons"]) > MAX_LIST_LENGTH:
+            embed.add_field(name="And more...", value=f"Total Pokémon with this ability: {len(ability_info['pokemons'])}", inline=False)
+
+        await ctx.send(embed=embed)
+    else:
+        await ctx.send(f"No se encontró información para la habilidad '{' '.join(args)}'. Por favor, verifica el nombre e inténtalo de nuevo.")
 
 @bot.command()
 async def poke_help(ctx):
