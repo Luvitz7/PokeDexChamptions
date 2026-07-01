@@ -3,7 +3,7 @@ from pprint import pprint
 
 # name_pokemon = input("Ingresa el nombre del Pokemon o su numero de pokedex: ").lower()
 
-url= f"https://pokeapi.co/api/v2/pokemon/sceptile-mega"
+url= f"https://pokeapi.co/api/v2/pokemon/dragonite"
 
 def fetch_data(url):
     try:
@@ -26,6 +26,7 @@ def get_pokemon_details(data):
             "types": [t["type"]["name"] for t in data.get("types", [])],
             "stats": {stat["stat"]["name"]: stat["base_stat"] for stat in data.get("stats", [])},
             "sprites": data.get("sprites", {}).get("front_default"),
+            "abilities": [ability["ability"]["name"] for ability in data.get("abilities", [])],
         }
 
         stats_poke_champions = {
@@ -53,5 +54,6 @@ def show_pokemon_details(pokemon, stats_poke_champions):
         }
 
     return show_pokemon
+
 
 

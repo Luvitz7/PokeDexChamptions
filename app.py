@@ -30,6 +30,7 @@ async def poke(ctx, *arg):
         embed.set_thumbnail(url=show_pokemon["sprites"])
         embed.add_field(name="Height", value=show_pokemon["height"], inline=True)
         embed.add_field(name="Weight", value=show_pokemon["weight"], inline=True)
+        embed.add_field(name="Abilities", value='\n'.join([ability.capitalize() for ability in pokemon["abilities"]]), inline=False)
         embed.add_field(name="Types", value=', '.join([t.capitalize() for t in show_pokemon["types"]]), inline=False)
         embed.add_field(name="Stats", value='\n'.join([f"{stat.capitalize()}: {value}" for stat, value in show_pokemon["stats"].items()]), inline=False)
 
