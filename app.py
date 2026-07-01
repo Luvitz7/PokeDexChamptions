@@ -1,8 +1,10 @@
 import discord
 from discord.ext import commands
-import requests
-import keys
+import webserver
+import os
 from pokeapi import show_pokemon_details, get_pokemon_details, fetch_data
+
+DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
 
 intents = discord.Intents.default()
 intents.message_content = True
@@ -46,13 +48,6 @@ async def poke_help(ctx):
 
     await ctx.send(embed=embed)
 
-@bot.event
-async def on_ready():
-    print(f"Conectado como {bot.user}")
-    print("Servidores:")
-    for guild in bot.guilds:
-        print(guild.name, guild.id)
-
-
-bot.run(keys.TOKEN)
+webserver.keep_alive()
+bot.run(DISCORD_TOKEN)
 
