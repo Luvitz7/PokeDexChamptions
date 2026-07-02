@@ -2,7 +2,6 @@ from bs4 import BeautifulSoup
 import re
 import requests
 import json
-from itertools import zip_longest
 from pprint import pprint
 
 def get_soup(url):
