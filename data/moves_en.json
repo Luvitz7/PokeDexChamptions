@@ -8021,7 +8021,7 @@
     },
     {
         "name": "Shadow Mist",
-        "type": "Psychic",
+        "type": "-",
         "category": "Status",
         "usage": "—",
         "power": "-",
@@ -8031,7 +8031,7 @@
     },
     {
         "name": "Shadow Panic",
-        "type": "Psychic",
+        "type": "-",
         "category": "Status",
         "usage": "—",
         "power": "-",
@@ -8051,7 +8051,7 @@
     },
     {
         "name": "Shadow Rave",
-        "type": "Steel",
+        "type": "-",
         "category": "Special",
         "usage": "—",
         "power": "70",
@@ -8061,7 +8061,7 @@
     },
     {
         "name": "Shadow Rush",
-        "type": "Electric",
+        "type": "-",
         "category": "Physical",
         "usage": "—",
         "power": "55",
@@ -8071,17 +8071,17 @@
     },
     {
         "name": "Shadow Shed",
-        "type": "Ground",
+        "type": "-",
         "category": "Status",
         "usage": "—",
         "power": "-",
-        "accuracy": "-",
+        "accuracy": "100%",
         "pp": "-",
         "effect": "-"
     },
     {
         "name": "Shadow Sky",
-        "type": "Bug",
+        "type": "-",
         "category": "Status",
         "usage": "—",
         "power": "-",
@@ -8091,7 +8091,7 @@
     },
     {
         "name": "Shadow Storm",
-        "type": "Bug",
+        "type": "-",
         "category": "Special",
         "usage": "—",
         "power": "95",
@@ -8101,7 +8101,7 @@
     },
     {
         "name": "Shadow Wave",
-        "type": "Bug",
+        "type": "-",
         "category": "Special",
         "usage": "—",
         "power": "50",

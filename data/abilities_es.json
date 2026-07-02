@@ -1,0 +1,3356 @@
+[
+    {
+        "name": "Adaptabilidad",
+        "effect": "Aumenta el bono de ataque del mismo tipo (STAB) de ×1.5 a ×2.",
+        "pokemons": [
+            "Basculegion (Female)",
+            "Basculin (Blue Striped)",
+            "Basculin (Red Striped)",
+            "Basculin (White Striped)",
+            "Eevee (Gmax)",
+            "Eevee (Starter)",
+            "Gumshoos (Totem)",
+            "Mega Beedrill",
+            "Mega Glimmora",
+            "Mega Lucario"
+        ]
+    },
+    {
+        "name": "Piel Celeste",
+        "effect": "Los movimientos de tipo Normal se convierten en movimientos de tipo Volador. La potencia de esos movimientos aumenta ligeramente.",
+        "pokemons": [
+            "Mega Pinsir",
+            "Mega Salamence"
+        ]
+    },
+    {
+        "name": "Resquicio",
+        "effect": "Daña al atacante si debilita al Pokémon con un movimiento de contacto.",
+        "pokemons": [
+            "Drifblim",
+            "Drifloon",
+            "Electrode",
+            "Garbodor",
+            "Garbodor (Gmax)",
+            "Hisuian Electrode",
+            "Hisuian Voltorb",
+            "Skuntank",
+            "Stunky",
+            "Trubbish"
+        ]
+    },
+    {
+        "name": "Bucle Aire",
+        "effect": "Anula los efectos del clima.",
+        "pokemons": [
+            "Rayquaza"
+        ]
+    },
+    {
+        "name": "Cálculo Final",
+        "effect": "Aumenta la potencia del movimiento del Pokémon si actúa el último en ese turno.",
+        "pokemons": [
+            "Beheeyem",
+            "Elgyem",
+            "Magnezone",
+            "Patrat",
+            "Porygon",
+            "Porygon-Z",
+            "Porygon2",
+            "Starmie",
+            "Staryu",
+            "Watchog"
+        ]
+    },
+    {
+        "name": "Irascible",
+        "effect": "Cuando el Pokémon recibe un golpe crítico, su estadística de Ataque aumenta al máximo.",
+        "pokemons": [
+            "Camerupt",
+            "Crabominable",
+            "Crabrawler",
+            "Krokorok",
+            "Krookodile",
+            "Paldean Tauros - Combat Breed",
+            "Sandile",
+            "Tauros",
+            "Tauros - Paldea Aqua Breed",
+            "Tauros - Paldea Blaze Breed"
+        ]
+    },
+    {
+        "name": "Caparazón Furioso",
+        "effect": "Cuando sus PS se reducen a la mitad o menos por un ataque, el Pokémon se enfurece. Esto reduce su Defensa y Defensa Especial, pero aumenta su Ataque, Ataque Especial y Velocidad.",
+        "pokemons": [
+            "Klawf"
+        ]
+    },
+    {
+        "name": "Anticipación",
+        "effect": "El Pokémon puede percibir los movimientos peligrosos de los Pokémon rivales.",
+        "pokemons": [
+            "Eevee (Gmax)",
+            "Eevee (Starter)",
+            "Flittle",
+            "Galarian Ponyta",
+            "Galarian Rapidash",
+            "Hatterene",
+            "Hatterene (Gmax)",
+            "Wormadam (Plant)",
+            "Wormadam (Sandy)",
+            "Wormadam (Trash)"
+        ]
+    },
+    {
+        "name": "Trampa Arena",
+        "effect": "Impide que los Pokémon rivales huyan del combate.",
+        "pokemons": [
+            "Diglett",
+            "Dugtrio",
+            "Trapinch"
+        ]
+    },
+    {
+        "name": "Cola Armadura",
+        "effect": "La misteriosa cola que cubre la cabeza del Pokémon impide que los rivales usen movimientos con prioridad contra él o sus aliados.",
+        "pokemons": [
+            "Farigiraf"
+        ]
+    },
+    {
+        "name": "Velo Aroma",
+        "effect": "Protege al Pokémon y a sus aliados de efectos que impiden el uso de movimientos.",
+        "pokemons": [
+            "Alcremie",
+            "Alcremie (Gmax)",
+            "Aromatisse",
+            "Dachsbun",
+            "Lechonk",
+            "Milcery",
+            "Oinkologne (Female)",
+            "Spritzee"
+        ]
+    },
+    {
+        "name": "Unidad",
+        "effect": "Esta habilidad combina los efectos de Nerviosismo de Calyrex y Relincho Blanco de Glastrier.",
+        "pokemons": [
+            "Calyrex (Ice)"
+        ]
+    },
+    {
+        "name": "Unidad",
+        "effect": "Esta habilidad combina los efectos de Nerviosismo de Calyrex y Relincho Negro de Spectrier.",
+        "pokemons": [
+            "Calyrex (Shadow)"
+        ]
+    },
+    {
+        "name": "Rompeaura",
+        "effect": "Invierte los efectos de las habilidades de tipo «Aura», reduciendo la potencia de los movimientos afectados.",
+        "pokemons": [
+            "Zygarde",
+            "Zygarde (10)",
+            "Zygarde (50)"
+        ]
+    },
+    {
+        "name": "Mal Sueño",
+        "effect": "Daña a los Pokémon rivales que estén dormidos.",
+        "pokemons": [
+            "Darkrai"
+        ]
+    },
+    {
+        "name": "Recogebolas",
+        "effect": "Si el Pokémon no lleva un objeto equipado, recogerá la Poké Ball del primer lanzamiento fallido del combate.",
+        "pokemons": [
+            "Yamper"
+        ]
+    },
+    {
+        "name": "Batería",
+        "effect": "Aumenta la potencia de los movimientos especiales de los Pokémon aliados.",
+        "pokemons": [
+            "Charjabug"
+        ]
+    },
+    {
+        "name": "Armadura Batalla",
+        "effect": "La dura armadura del Pokémon lo protege de los golpes críticos.",
+        "pokemons": [
+            "Anorith",
+            "Armaldo",
+            "Drapion",
+            "Falinks",
+            "Kabuto",
+            "Kabutops",
+            "Marowak",
+            "Perrserker",
+            "Skorupi",
+            "Type: Null"
+        ]
+    },
+    {
+        "name": "Fuerte Afecto",
+        "effect": "Cuando el Pokémon debilita a un objetivo, su vínculo con su Entrenador se fortalece y aumentan sus estadísticas de Ataque, Ataque Especial y Velocidad.",
+        "pokemons": [
+            "Greninja (Ash)",
+            "Greninja (Battle Bond)"
+        ]
+    },
+    {
+        "name": "Abalorios Funestos",
+        "effect": "El poder de los abalorios malditos del Pokémon reduce la Defensa Especial de todos los demás Pokémon.",
+        "pokemons": [
+            "Chi-Yu"
+        ]
+    },
+    {
+        "name": "Ultraimpulso",
+        "effect": "El Pokémon aumenta su estadística más alta cada vez que debilita a otro Pokémon.",
+        "pokemons": [
+            "Blacephalon",
+            "Buzzwole",
+            "Celesteela",
+            "Guzzlord",
+            "Kartana",
+            "Naganadel",
+            "Pheromosa",
+            "Poipole",
+            "Stakataka",
+            "Xurkitree"
+        ]
+    },
+    {
+        "name": "Cólera",
+        "effect": "Aumenta el Ataque Especial del Pokémon cuando recibe un golpe que reduce sus PS a la mitad o menos.",
+        "pokemons": [
+            "Drampa",
+            "Galarian Moltres",
+            "Mega Drampa"
+        ]
+    },
+    {
+        "name": "Sacapecho",
+        "effect": "Evita que la estadística de Defensa del Pokémon se reduzca.",
+        "pokemons": [
+            "Bombirdier",
+            "Corvisquire",
+            "Ducklett",
+            "Fletchling",
+            "Mandibuzz",
+            "Rookidee",
+            "Swanna",
+            "Tranquill",
+            "Unfezant",
+            "Vullaby"
+        ]
+    },
+    {
+        "name": "Mar Llamas",
+        "effect": "Potencia los movimientos de tipo Fuego cuando los PS del Pokémon son bajos.",
+        "pokemons": [
+            "Charizard (Gmax)",
+            "Cinderace",
+            "Cinderace (Gmax)",
+            "Crocalor",
+            "Fuecoco",
+            "Hisuian Typhlosion",
+            "Incineroar",
+            "Raboot",
+            "Scorbunny",
+            "Skeledirge"
+        ]
+    },
+    {
+        "name": "Antibalas",
+        "effect": "Protege al Pokémon de algunos movimientos de proyectiles y bombas.",
+        "pokemons": [
+            "Applin",
+            "Chesnaught",
+            "Dubwool",
+            "Hakamo-o",
+            "Jangmo-o",
+            "Kommo-o",
+            "Kommo-o (Totem)",
+            "Mega Chesnaught",
+            "Ursaluna",
+            "Wooloo"
+        ]
+    },
+    {
+        "name": "Carrillo",
+        "effect": "Los PS del Pokémon se restauran al comer cualquier Baya, además del efecto habitual de esta.",
+        "pokemons": [
+            "Bunnelby",
+            "Dedenne",
+            "Diggersby",
+            "Greedent",
+            "Maushold",
+            "Maushold (Family Of Four)",
+            "Maushold (Family Of Three)",
+            "Skwovet"
+        ]
+    },
+    {
+        "name": "Relincho Blanco",
+        "effect": "Cuando el Pokémon debilita a un objetivo, emite un relincho escalofriante que aumenta su Ataque.",
+        "pokemons": [
+            "Glastrier"
+        ]
+    },
+    {
+        "name": "Clorofila",
+        "effect": "Aumenta la Velocidad del Pokémon bajo luz solar intensa.",
+        "pokemons": [
+            "Capsakid",
+            "Deerling",
+            "Hisuian Lilligant",
+            "Lilligant",
+            "Maractus",
+            "Petilil",
+            "Sawsbuck",
+            "Scovillain",
+            "Venusaur (Gmax)",
+            "Whimsicott"
+        ]
+    },
+    {
+        "name": "Cuerpo Puro",
+        "effect": "Evita que los movimientos o habilidades de otros Pokémon reduzcan las estadísticas del Pokémon.",
+        "pokemons": [
+            "Carbink",
+            "Diancie",
+            "Dragapult",
+            "Drakloak",
+            "Dreepy",
+            "Garganacl",
+            "Klang",
+            "Klinklang",
+            "Nacli",
+            "Naclstack"
+        ]
+    },
+    {
+        "name": "Aclimatación",
+        "effect": "Anula los efectos del clima.",
+        "pokemons": [
+            "Altaria",
+            "Drampa",
+            "Golduck",
+            "Lickilicky",
+            "Lickitung",
+            "Psyduck",
+            "Swablu"
+        ]
+    },
+    {
+        "name": "Cambio Color",
+        "effect": "El tipo del Pokémon pasa a ser el del movimiento que le ha golpeado.",
+        "pokemons": [
+            "Kecleon"
+        ]
+    },
+    {
+        "name": "Letargo Perenne",
+        "effect": "El Pokémon está permanentemente adormecido y nunca despertará. Puede atacar mientras está dormido.",
+        "pokemons": [
+            "Komala"
+        ]
+    },
+    {
+        "name": "Comandante",
+        "effect": "Cuando el Pokémon entra en combate, se introduce en la boca de un Dondozo aliado si hay uno en el campo. Desde allí, le da instrucciones.",
+        "pokemons": [
+            "Tatsugiri",
+            "Tatsugiri (Curly)",
+            "Tatsugiri (Droopy)",
+            "Tatsugiri (Stretchy)"
+        ]
+    },
+    {
+        "name": "Competitivo",
+        "effect": "Aumenta considerablemente el Ataque Especial del Pokémon cuando un rival reduce cualquiera de sus estadísticas.",
+        "pokemons": [
+            "Boltund",
+            "Empoleon",
+            "Galarian Articuno",
+            "Gothita",
+            "Gothitelle",
+            "Gothorita",
+            "Kilowattrel",
+            "Meowstic",
+            "Meowstic (Female)",
+            "Wattrel"
+        ]
+    },
+    {
+        "name": "Ojo Compuesto",
+        "effect": "Los ojos compuestos del Pokémon aumentan su precisión.",
+        "pokemons": [
+            "Blipbug",
+            "Butterfree (Gmax)",
+            "Dottler",
+            "Dustox",
+            "Galvantula",
+            "Joltik",
+            "Nincada",
+            "Rellor",
+            "Scatterbug",
+            "Yanma"
+        ]
+    },
+    {
+        "name": "Respondón",
+        "effect": "Invierte los cambios de estadísticas del Pokémon: los aumentos se convierten en reducciones y las reducciones en aumentos.",
+        "pokemons": [
+            "Enamorus",
+            "Enamorus (Incarnate)",
+            "Fomantis",
+            "Inkay",
+            "Lurantis",
+            "Lurantis (Totem)",
+            "Malamar",
+            "Mega Malamar",
+            "Mega Staraptor",
+            "Serperior"
+        ]
+    },
+    {
+        "name": "Corrosión",
+        "effect": "El Pokémon puede envenenar al objetivo incluso si es de tipo Acero o Veneno.",
+        "pokemons": [
+            "Glimmet",
+            "Glimmora",
+            "Salandit",
+            "Salazzle",
+            "Salazzle (Totem)"
+        ]
+    },
+    {
+        "name": "Costar",
+        "effect": "Cuando el Pokémon entra en combate, copia los cambios de estadísticas de un aliado.",
+        "pokemons": [
+            "Flamigo"
+        ]
+    },
+    {
+        "name": "Algodón",
+        "effect": "Cuando el Pokémon recibe un ataque, esparce pelusa de algodón que reduce la Velocidad de todos los Pokémon excepto la suya.",
+        "pokemons": [
+            "Eldegoss",
+            "Gossifleur"
+        ]
+    },
+    {
+        "name": "Rumia",
+        "effect": "Cuando el Pokémon consume una Baya, la regurgita al final del siguiente turno y la consume una vez más.",
+        "pokemons": [
+            "Farigiraf",
+            "Paldean Tauros - Combat Breed",
+            "Tauros - Paldea Aqua Breed",
+            "Tauros - Paldea Blaze Breed"
+        ]
+    },
+    {
+        "name": "Medicina Extraña",
+        "effect": "Cuando el Pokémon entra en combate, esparce una medicina de su caparazón que elimina todos los cambios de estadísticas de sus aliados.",
+        "pokemons": [
+            "Galarian Slowking"
+        ]
+    },
+    {
+        "name": "Cuerpo Maldito",
+        "effect": "Puede inutilizar el movimiento que haya causado daño al Pokémon.",
+        "pokemons": [
+            "Alolan Marowak",
+            "Dragapult",
+            "Drakloak",
+            "Dreepy",
+            "Frillish (Male)",
+            "Galarian Corsola",
+            "Gengar (Gmax)",
+            "Jellicent (Male)",
+            "Marowak (Totem)",
+            "Polteageist"
+        ]
+    },
+    {
+        "name": "Gran Encanto",
+        "effect": "El Pokémon puede enamorar a los atacantes que hagan contacto directo con él.",
+        "pokemons": [
+            "Cinccino",
+            "Delcatty",
+            "Enamorus",
+            "Enamorus (Incarnate)",
+            "Lopunny",
+            "Milotic",
+            "Minccino",
+            "Skitty",
+            "Stufful",
+            "Sylveon"
+        ]
+    },
+    {
+        "name": "Humedad",
+        "effect": "El Pokémon humedece el entorno e impide que cualquier Pokémon use movimientos explosivos como Autodestrucción.",
+        "pokemons": [
+            "Bellibolt",
+            "Frillish",
+            "Frillish (Male)",
+            "Jellicent",
+            "Jellicent (Male)",
+            "Kingdra",
+            "Marshtomp",
+            "Mudkip",
+            "Swampert",
+            "Tadbulb"
+        ]
+    },
+    {
+        "name": "Bailarín",
+        "effect": "Cada vez que se usa un movimiento de baile en combate, el Pokémon imita al usuario y ejecuta inmediatamente ese mismo movimiento.",
+        "pokemons": [
+            "Oricorio",
+            "Oricorio (Baile)",
+            "Oricorio (Pau)",
+            "Oricorio (Pom Pom)",
+            "Oricorio (Sensu)"
+        ]
+    },
+    {
+        "name": "Aura Oscura",
+        "effect": "Potencia los movimientos de tipo Siniestro de todos los Pokémon.",
+        "pokemons": [
+            "Yveltal"
+        ]
+    },
+    {
+        "name": "Escudo Recio",
+        "effect": "Aumenta la Defensa del Pokémon la primera vez que entra en combate.",
+        "pokemons": [
+            "Zamazenta",
+            "Zamazenta (Crowned)"
+        ]
+    },
+    {
+        "name": "Deslumbrante",
+        "effect": "El Pokémon deslumbra a sus rivales, impidiéndoles usar movimientos con prioridad contra él o sus aliados.",
+        "pokemons": [
+            "Bruxish"
+        ]
+    },
+    {
+        "name": "Flaqueza",
+        "effect": "Reduce a la mitad el Ataque y el Ataque Especial del Pokémon cuando sus PS bajan a la mitad o menos.",
+        "pokemons": [
+            "Archen",
+            "Archeops"
+        ]
+    },
+    {
+        "name": "Competitivo",
+        "effect": "Si un rival reduce cualquiera de las estadísticas del Pokémon, su Ataque aumenta considerablemente.",
+        "pokemons": [
+            "Annihilape",
+            "Falinks",
+            "Galarian Zapdos",
+            "Kingambit",
+            "Mega Falinks",
+            "Obstagoon",
+            "Ogerpon",
+            "Passimian",
+            "Thundurus (Incarnate)",
+            "Tornadus (Incarnate)"
+        ]
+    },
+    {
+        "name": "Ráfaga Delta",
+        "effect": "El Pokémon altera el clima para eliminar todas las debilidades del tipo Volador.",
+        "pokemons": [
+            "Mega Rayquaza"
+        ]
+    },
+    {
+        "name": "Tierra del Ocaso",
+        "effect": "El Pokémon altera el clima para anular los ataques de tipo Agua.",
+        "pokemons": [
+            "Groudon (Primal)"
+        ]
+    },
+    {
+        "name": "Disfraz",
+        "effect": "Una vez por combate, el disfraz que cubre al Pokémon puede protegerlo de un ataque.",
+        "pokemons": [
+            "Mimikyu",
+            "Mimikyu (Busted)",
+            "Mimikyu (Disguised)",
+            "Mimikyu (Totem Busted)",
+            "Mimikyu (Totem Disguised)"
+        ]
+    },
+    {
+        "name": "Descarga",
+        "effect": "El Pokémon compara la Defensa y la Defensa Especial del rival para aumentar su propio Ataque o Ataque Especial, según cuál sea más efectivo.",
+        "pokemons": [
+            "Genesect",
+            "Porygon",
+            "Porygon-Z",
+            "Porygon2"
+        ]
+    },
+    {
+        "name": "Draconización",
+        "effect": "Los movimientos de tipo Normal del Pokémon se convierten en movimientos de tipo Dragón y su potencia aumenta un 20%.",
+        "pokemons": [
+            "Mega Feraligatr"
+        ]
+    },
+    {
+        "name": "Mandíbula Dragón",
+        "effect": "Potencia los movimientos de tipo Dragón.",
+        "pokemons": [
+            "Regidrago"
+        ]
+    },
+    {
+        "name": "Llovizna",
+        "effect": "El Pokémon hace que empiece a llover al entrar en combate.",
+        "pokemons": [
+            "Kyogre",
+            "Pelipper",
+            "Politoed"
+        ]
+    },
+    {
+        "name": "Sequía",
+        "effect": "Provoca luz solar intensa cuando el Pokémon entra en combate.",
+        "pokemons": [
+            "Groudon",
+            "Mega Charizard Y",
+            "Ninetales",
+            "Torkoal",
+            "Vulpix"
+        ]
+    },
+    {
+        "name": "Piel Seca",
+        "effect": "Recupera PS bajo la lluvia o al recibir movimientos de tipo Agua. Pierde PS bajo luz solar intensa y recibe más daño de los movimientos de tipo Fuego.",
+        "pokemons": [
+            "Croagunk",
+            "Heliolisk",
+            "Helioptile",
+            "Jynx",
+            "Paras",
+            "Parasect",
+            "Toxicroak"
+        ]
+    },
+    {
+        "name": "Madrugar",
+        "effect": "El Pokémon se despierta del sueño el doble de rápido que otros Pokémon.",
+        "pokemons": [
+            "Dolliv",
+            "Girafarig",
+            "Houndoom",
+            "Houndour",
+            "Nuzleaf",
+            "Seedot",
+            "Smoliv",
+            "Sunflora",
+            "Sunkern",
+            "Xatu"
+        ]
+    },
+    {
+        "name": "Geofagia",
+        "effect": "Si recibe un movimiento de tipo Tierra, el Pokémon recupera PS en lugar de recibir daño.",
+        "pokemons": [
+            "Orthworm"
+        ]
+    },
+    {
+        "name": "Electrolevitación",
+        "effect": "El Pokémon flota sobre el suelo, volviéndose inmune a los movimientos de tipo Tierra, así como a los efectos de Púas, Púas Tóxicas y Red Viscosa. Cuando debilita a un objetivo con un ataque, su estadística más alta aumenta un nivel.",
+        "pokemons": [
+            "Mega Eelektross"
+        ]
+    },
+    {
+        "name": "Efecto Espora",
+        "effect": "El contacto con el Pokémon puede causar envenenamiento, sueño o parálisis al atacante.",
+        "pokemons": [
+            "Amoonguss",
+            "Breloom",
+            "Eldegoss",
+            "Foongus",
+            "Gossifleur",
+            "Morelull",
+            "Parasect",
+            "Shiinotic",
+            "Shroomish",
+            "Vileplume"
+        ]
+    },
+    {
+        "name": "Electrogénesis",
+        "effect": "Convierte el terreno en Campo Eléctrico cuando el Pokémon entra en combate.",
+        "pokemons": [
+            "Mega Raichu X",
+            "Pincurchin",
+            "Tapu Koko"
+        ]
+    },
+    {
+        "name": "Electromorfosis",
+        "effect": "El Pokémon se carga de electricidad al recibir daño, aumentando la potencia del siguiente movimiento de tipo Eléctrico que utilice.",
+        "pokemons": [
+            "Bellibolt"
+        ]
+    },
+    {
+        "name": "Aspecto Encarnado",
+        "effect": "El corazón del Pokémon se llena de recuerdos, haciendo que su máscara brille y aumentando una de sus estadísticas.",
+        "pokemons": []
+    },
+    {
+        "name": "Retirada",
+        "effect": "Cuando sus PS se reducen a la mitad o menos, el Pokémon percibe el peligro y se retira del combate.",
+        "pokemons": [
+            "Golisopod"
+        ]
+    },
+    {
+        "name": "Aura Feérica",
+        "effect": "Aumenta en un 33% la potencia de los movimientos de tipo Hada de todos los Pokémon en combate.",
+        "pokemons": [
+            "Mega Floette",
+            "Xerneas"
+        ]
+    },
+    {
+        "name": "Filtro",
+        "effect": "Reduce el daño recibido de los ataques supereficaces.",
+        "pokemons": [
+            "Mega Aggron",
+            "Mime Jr.",
+            "Mr. Mime",
+            "Revavroom"
+        ]
+    },
+    {
+        "name": "Melena Ígnea",
+        "effect": "Aumenta en un 50% la potencia de los movimientos de tipo Fuego del Pokémon.",
+        "pokemons": [
+            "Mega Pyroar"
+        ]
+    },
+    {
+        "name": "Cuerpo Llama",
+        "effect": "El contacto con el Pokémon puede causar quemaduras al atacante.",
+        "pokemons": [
+            "Carkol",
+            "Centiskorch",
+            "Centiskorch (Gmax)",
+            "Charcadet",
+            "Coalossal",
+            "Coalossal (Gmax)",
+            "Fletchinder",
+            "Sizzlipede",
+            "Talonflame",
+            "Volcarona"
+        ]
+    },
+    {
+        "name": "Ímpetu Ardiente",
+        "effect": "Potencia los movimientos especiales cuando el Pokémon está quemado.",
+        "pokemons": [
+            "Drifblim",
+            "Drifloon"
+        ]
+    },
+    {
+        "name": "Absorbe Fuego",
+        "effect": "Si recibe un movimiento de tipo Fuego, el Pokémon absorbe las llamas y aumenta la potencia de sus propios movimientos de tipo Fuego.",
+        "pokemons": [
+            "Armarouge",
+            "Centiskorch",
+            "Centiskorch (Gmax)",
+            "Ceruledge",
+            "Charcadet",
+            "Coalossal",
+            "Coalossal (Gmax)",
+            "Hisuian Arcanine",
+            "Hisuian Growlithe",
+            "Sizzlipede"
+        ]
+    },
+    {
+        "name": "Don Floral",
+        "effect": "Aumenta el Ataque y la Defensa Especial del Pokémon y sus aliados bajo luz solar intensa.",
+        "pokemons": [
+            "Cherrim"
+        ]
+    },
+    {
+        "name": "Velo Flor",
+        "effect": "Protege a los Pokémon de tipo Planta aliados frente a problemas de estado y reducciones de estadísticas.",
+        "pokemons": [
+            "Comfey",
+            "Flabébé",
+            "Floette",
+            "Floette (Eternal)",
+            "Florges"
+        ]
+    },
+    {
+        "name": "Peluche",
+        "effect": "Reduce a la mitad el daño recibido por movimientos de contacto, pero duplica el daño recibido de movimientos de tipo Fuego.",
+        "pokemons": [
+            "Bewear",
+            "Dubwool",
+            "Greavard",
+            "Houndstone",
+            "Stufful",
+            "Wooloo"
+        ]
+    },
+    {
+        "name": "Predicción",
+        "effect": "El Pokémon cambia de forma con el clima, alterando su tipo a Agua, Fuego o Hielo.",
+        "pokemons": [
+            "Castform",
+            "Castform (Rainy)",
+            "Castform (Snowy)",
+            "Castform (Sunny)"
+        ]
+    },
+    {
+        "name": "Alerta",
+        "effect": "Cuando entra en combate, el Pokémon puede identificar uno de los movimientos del rival.",
+        "pokemons": [
+            "Drowzee",
+            "Hypno",
+            "Jynx",
+            "Munna",
+            "Musharna",
+            "Smoochum"
+        ]
+    },
+    {
+        "name": "Compiescolta",
+        "effect": "Reduce el daño recibido por los aliados.",
+        "pokemons": [
+            "Cleffa",
+            "Happiny",
+            "Igglybuff",
+            "Jigglypuff",
+            "Maushold",
+            "Maushold (Family Of Four)",
+            "Maushold (Family Of Three)",
+            "Scatterbug",
+            "Spewpa",
+            "Vivillon"
+        ]
+    },
+    {
+        "name": "Cacheo",
+        "effect": "Cuando entra en combate, el Pokémon puede comprobar el objeto equipado del rival.",
+        "pokemons": [
+            "Gourgeist (Average)",
+            "Gourgeist (Large)",
+            "Gourgeist (Small)",
+            "Gourgeist (Super)",
+            "Grimmsnarl (Gmax)",
+            "Orbeetle (Gmax)",
+            "Pumpkaboo (Average)",
+            "Pumpkaboo (Large)",
+            "Pumpkaboo (Small)",
+            "Pumpkaboo (Super)"
+        ]
+    },
+    {
+        "name": "Armadura Metálica",
+        "effect": "Evita que los movimientos o habilidades de otros Pokémon reduzcan las estadísticas del Pokémon.",
+        "pokemons": [
+            "Solgaleo"
+        ]
+    },
+    {
+        "name": "Pelaje Recio",
+        "effect": "Reduce a la mitad el daño recibido de movimientos físicos.",
+        "pokemons": [
+            "Alolan Persian",
+            "Furfrou"
+        ]
+    },
+    {
+        "name": "Alas Vendaval",
+        "effect": "Otorga prioridad a los movimientos de tipo Volador mientras el Pokémon tenga todos sus PS.",
+        "pokemons": [
+            "Fletchinder",
+            "Fletchling",
+            "Talonflame"
+        ]
+    },
+    {
+        "name": "Piel Eléctrica",
+        "effect": "Los movimientos de tipo Normal se convierten en movimientos de tipo Eléctrico. La potencia de esos movimientos aumenta ligeramente.",
+        "pokemons": [
+            "Alolan Geodude",
+            "Alolan Golem",
+            "Alolan Graveler"
+        ]
+    },
+    {
+        "name": "Gula",
+        "effect": "Si el Pokémon lleva una Baya que se activa con pocos PS, la consumirá cuando sus PS bajen a la mitad o menos.",
+        "pokemons": [
+            "Alolan Grimer",
+            "Alolan Muk",
+            "Appletun (Gmax)",
+            "Flapple (Gmax)",
+            "Galarian Linoone",
+            "Galarian Zigzagoon",
+            "Oinkologne (Female)",
+            "Oinkologne (Male)",
+            "Raticate (Totem Alola)",
+            "Snorlax (Gmax)"
+        ]
+    },
+    {
+        "name": "Cuerpo Áureo",
+        "effect": "El cuerpo de oro puro del Pokémon le otorga inmunidad total a los movimientos de estado de otros Pokémon.",
+        "pokemons": [
+            "Gholdengo"
+        ]
+    },
+    {
+        "name": "Baba",
+        "effect": "El contacto con el Pokémon reduce la Velocidad del atacante.",
+        "pokemons": [
+            "Goodra",
+            "Goomy",
+            "Hisuian Goodra",
+            "Hisuian Sliggoo",
+            "Sliggoo",
+            "Wiglett",
+            "Wugtrio"
+        ]
+    },
+    {
+        "name": "Monotema",
+        "effect": "Aumenta el Ataque del Pokémon, pero solo le permite usar el primer movimiento seleccionado.",
+        "pokemons": [
+            "Darmanitan (Galar Standard)",
+            "Darmanitan (Galar Zen)"
+        ]
+    },
+    {
+        "name": "Manto Herboso",
+        "effect": "Aumenta la Defensa del Pokémon cuando el Campo de Hierba está activo.",
+        "pokemons": [
+            "Gogoat",
+            "Skiddo"
+        ]
+    },
+    {
+        "name": "Herbogénesis",
+        "effect": "Convierte el terreno en Campo de Hierba cuando el Pokémon entra en combate.",
+        "pokemons": [
+            "Grookey",
+            "Rillaboom",
+            "Rillaboom (Gmax)",
+            "Tapu Bulu",
+            "Thwackey"
+        ]
+    },
+    {
+        "name": "Relincho Negro",
+        "effect": "Cuando el Pokémon debilita a un objetivo, emite un relincho aterrador que aumenta su Ataque Especial.",
+        "pokemons": [
+            "Spectrier"
+        ]
+    },
+    {
+        "name": "Perro Guardián",
+        "effect": "Aumenta el Ataque del Pokémon si es intimidado. Además, los movimientos y objetos que obligarían al Pokémon a retirarse fallan.",
+        "pokemons": [
+            "Mabosstiff",
+            "Okidogi"
+        ]
+    },
+    {
+        "name": "Tragamisil",
+        "effect": "Cuando el Pokémon usa Surf o Buceo, regresa con una presa. Si recibe daño, escupirá la presa para atacar.",
+        "pokemons": [
+            "Cramorant",
+            "Cramorant (Gorging)",
+            "Cramorant (Gulping)"
+        ]
+    },
+    {
+        "name": "Agallas",
+        "effect": "El coraje del Pokémon aumenta su Ataque cuando sufre un problema de estado.",
+        "pokemons": [
+            "Conkeldurr",
+            "Gurdurr",
+            "Machamp (Gmax)",
+            "Obstagoon",
+            "Squawkabilly",
+            "Squawkabilly (Blue Plumage)",
+            "Squawkabilly (Green Plumage)",
+            "Throh",
+            "Timburr",
+            "Ursaluna"
+        ]
+    },
+    {
+        "name": "Motor Hadrónico",
+        "effect": "Convierte el terreno en Campo Eléctrico cuando el Pokémon entra en combate. El motor futurista del Pokémon también aumenta su Ataque Especial mientras el Campo Eléctrico esté activo.",
+        "pokemons": [
+            "Miraidon",
+            "Miraidon (Aquatic Mode)",
+            "Miraidon (Drive Mode)",
+            "Miraidon (Glide Mode)",
+            "Miraidon (Low Power Mode)"
+        ]
+    },
+    {
+        "name": "Cosecha",
+        "effect": "Puede generar otra Baya después de haber consumido una.",
+        "pokemons": [
+            "Alolan Exeggutor",
+            "Arboliva",
+            "Dolliv",
+            "Exeggcute",
+            "Exeggutor",
+            "Phantump",
+            "Smoliv",
+            "Trevenant",
+            "Tropius"
+        ]
+    },
+    {
+        "name": "Alma Cura",
+        "effect": "A veces cura los problemas de estado de los Pokémon aliados.",
+        "pokemons": [
+            "Alomomola",
+            "Aromatisse",
+            "Audino",
+            "Blissey",
+            "Hatenna",
+            "Hatterene",
+            "Hatterene (Gmax)",
+            "Hattrem",
+            "Mega Audino",
+            "Spritzee"
+        ]
+    },
+    {
+        "name": "Ignífugo",
+        "effect": "El cuerpo resistente al calor del Pokémon reduce a la mitad el daño recibido de movimientos de tipo Fuego.",
+        "pokemons": [
+            "Bronzong",
+            "Bronzor",
+            "Poltchageist",
+            "Rolycoly",
+            "Sinistcha"
+        ]
+    },
+    {
+        "name": "Madrugar",
+        "effect": "El Pokémon se despierta del sueño el doble de rápido que otros Pokémon.",
+        "pokemons": [
+            "Dolliv",
+            "Girafarig",
+            "Houndoom",
+            "Houndour",
+            "Nuzleaf",
+            "Seedot",
+            "Smoliv",
+            "Sunflora",
+            "Sunkern",
+            "Xatu"
+        ]
+    },
+    {
+        "name": "Geofagia",
+        "effect": "Si recibe un movimiento de tipo Tierra, el Pokémon recupera PS en lugar de recibir daño.",
+        "pokemons": [
+            "Orthworm"
+        ]
+    },
+    {
+        "name": "Electrolevitación",
+        "effect": "El Pokémon flota sobre el suelo, volviéndose inmune a los movimientos de tipo Tierra, así como a los efectos de Púas, Púas Tóxicas y Red Viscosa. Cuando debilita a un objetivo con un ataque, su estadística más alta aumenta un nivel.",
+        "pokemons": [
+            "Mega Eelektross"
+        ]
+    },
+    {
+        "name": "Efecto Espora",
+        "effect": "El contacto con el Pokémon puede causar envenenamiento, sueño o parálisis al atacante.",
+        "pokemons": [
+            "Amoonguss",
+            "Breloom",
+            "Eldegoss",
+            "Foongus",
+            "Gossifleur",
+            "Morelull",
+            "Parasect",
+            "Shiinotic",
+            "Shroomish",
+            "Vileplume"
+        ]
+    },
+    {
+        "name": "Electrogénesis",
+        "effect": "Convierte el terreno en Campo Eléctrico cuando el Pokémon entra en combate.",
+        "pokemons": [
+            "Mega Raichu X",
+            "Pincurchin",
+            "Tapu Koko"
+        ]
+    },
+    {
+        "name": "Electromorfosis",
+        "effect": "El Pokémon se carga de electricidad al recibir daño, aumentando la potencia del siguiente movimiento de tipo Eléctrico que utilice.",
+        "pokemons": [
+            "Bellibolt"
+        ]
+    },
+    {
+        "name": "Aspecto Encarnado",
+        "effect": "El corazón del Pokémon se llena de recuerdos, haciendo que su máscara brille y aumentando una de sus estadísticas.",
+        "pokemons": []
+    },
+    {
+        "name": "Retirada",
+        "effect": "Cuando sus PS se reducen a la mitad o menos, el Pokémon percibe el peligro y se retira del combate.",
+        "pokemons": [
+            "Golisopod"
+        ]
+    },
+    {
+        "name": "Aura Feérica",
+        "effect": "Aumenta en un 33% la potencia de los movimientos de tipo Hada de todos los Pokémon en combate.",
+        "pokemons": [
+            "Mega Floette",
+            "Xerneas"
+        ]
+    },
+    {
+        "name": "Filtro",
+        "effect": "Reduce el daño recibido de los ataques supereficaces.",
+        "pokemons": [
+            "Mega Aggron",
+            "Mime Jr.",
+            "Mr. Mime",
+            "Revavroom"
+        ]
+    },
+    {
+        "name": "Melena Ígnea",
+        "effect": "Aumenta en un 50% la potencia de los movimientos de tipo Fuego del Pokémon.",
+        "pokemons": [
+            "Mega Pyroar"
+        ]
+    },
+    {
+        "name": "Cuerpo Llama",
+        "effect": "El contacto con el Pokémon puede causar quemaduras al atacante.",
+        "pokemons": [
+            "Carkol",
+            "Centiskorch",
+            "Centiskorch (Gmax)",
+            "Charcadet",
+            "Coalossal",
+            "Coalossal (Gmax)",
+            "Fletchinder",
+            "Sizzlipede",
+            "Talonflame",
+            "Volcarona"
+        ]
+    },
+    {
+        "name": "Ímpetu Ardiente",
+        "effect": "Potencia los movimientos especiales cuando el Pokémon está quemado.",
+        "pokemons": [
+            "Drifblim",
+            "Drifloon"
+        ]
+    },
+    {
+        "name": "Absorbe Fuego",
+        "effect": "Si recibe un movimiento de tipo Fuego, el Pokémon absorbe las llamas y aumenta la potencia de sus propios movimientos de tipo Fuego.",
+        "pokemons": [
+            "Armarouge",
+            "Centiskorch",
+            "Centiskorch (Gmax)",
+            "Ceruledge",
+            "Charcadet",
+            "Coalossal",
+            "Coalossal (Gmax)",
+            "Hisuian Arcanine",
+            "Hisuian Growlithe",
+            "Sizzlipede"
+        ]
+    },
+    {
+        "name": "Don Floral",
+        "effect": "Aumenta el Ataque y la Defensa Especial del Pokémon y sus aliados bajo luz solar intensa.",
+        "pokemons": [
+            "Cherrim"
+        ]
+    },
+    {
+        "name": "Velo Flor",
+        "effect": "Protege a los Pokémon de tipo Planta aliados frente a problemas de estado y reducciones de estadísticas.",
+        "pokemons": [
+            "Comfey",
+            "Flabébé",
+            "Floette",
+            "Floette (Eternal)",
+            "Florges"
+        ]
+    },
+    {
+        "name": "Peluche",
+        "effect": "Reduce a la mitad el daño recibido por movimientos de contacto, pero duplica el daño recibido de movimientos de tipo Fuego.",
+        "pokemons": [
+            "Bewear",
+            "Dubwool",
+            "Greavard",
+            "Houndstone",
+            "Stufful",
+            "Wooloo"
+        ]
+    },
+    {
+        "name": "Predicción",
+        "effect": "El Pokémon cambia de forma con el clima, alterando su tipo a Agua, Fuego o Hielo.",
+        "pokemons": [
+            "Castform",
+            "Castform (Rainy)",
+            "Castform (Snowy)",
+            "Castform (Sunny)"
+        ]
+    },
+    {
+        "name": "Alerta",
+        "effect": "Cuando entra en combate, el Pokémon puede identificar uno de los movimientos del rival.",
+        "pokemons": [
+            "Drowzee",
+            "Hypno",
+            "Jynx",
+            "Munna",
+            "Musharna",
+            "Smoochum"
+        ]
+    },
+    {
+        "name": "Compiescolta",
+        "effect": "Reduce el daño recibido por los aliados.",
+        "pokemons": [
+            "Cleffa",
+            "Happiny",
+            "Igglybuff",
+            "Jigglypuff",
+            "Maushold",
+            "Maushold (Family Of Four)",
+            "Maushold (Family Of Three)",
+            "Scatterbug",
+            "Spewpa",
+            "Vivillon"
+        ]
+    },
+    {
+        "name": "Cacheo",
+        "effect": "Cuando entra en combate, el Pokémon puede comprobar el objeto equipado del rival.",
+        "pokemons": [
+            "Gourgeist (Average)",
+            "Gourgeist (Large)",
+            "Gourgeist (Small)",
+            "Gourgeist (Super)",
+            "Grimmsnarl (Gmax)",
+            "Orbeetle (Gmax)",
+            "Pumpkaboo (Average)",
+            "Pumpkaboo (Large)",
+            "Pumpkaboo (Small)",
+            "Pumpkaboo (Super)"
+        ]
+    },
+    {
+        "name": "Armadura Metálica",
+        "effect": "Evita que los movimientos o habilidades de otros Pokémon reduzcan las estadísticas del Pokémon.",
+        "pokemons": [
+            "Solgaleo"
+        ]
+    },
+    {
+        "name": "Pelaje Recio",
+        "effect": "Reduce a la mitad el daño recibido de movimientos físicos.",
+        "pokemons": [
+            "Alolan Persian",
+            "Furfrou"
+        ]
+    },
+    {
+        "name": "Alas Vendaval",
+        "effect": "Otorga prioridad a los movimientos de tipo Volador mientras el Pokémon tenga todos sus PS.",
+        "pokemons": [
+            "Fletchinder",
+            "Fletchling",
+            "Talonflame"
+        ]
+    },
+    {
+        "name": "Piel Eléctrica",
+        "effect": "Los movimientos de tipo Normal se convierten en movimientos de tipo Eléctrico. La potencia de esos movimientos aumenta ligeramente.",
+        "pokemons": [
+            "Alolan Geodude",
+            "Alolan Golem",
+            "Alolan Graveler"
+        ]
+    },
+    {
+        "name": "Gula",
+        "effect": "Si el Pokémon lleva una Baya que se activa con pocos PS, la consumirá cuando sus PS bajen a la mitad o menos.",
+        "pokemons": [
+            "Alolan Grimer",
+            "Alolan Muk",
+            "Appletun (Gmax)",
+            "Flapple (Gmax)",
+            "Galarian Linoone",
+            "Galarian Zigzagoon",
+            "Oinkologne (Female)",
+            "Oinkologne (Male)",
+            "Raticate (Totem Alola)",
+            "Snorlax (Gmax)"
+        ]
+    },
+    {
+        "name": "Cuerpo Áureo",
+        "effect": "El cuerpo de oro puro del Pokémon le otorga inmunidad total a los movimientos de estado de otros Pokémon.",
+        "pokemons": [
+            "Gholdengo"
+        ]
+    },
+    {
+        "name": "Baba",
+        "effect": "El contacto con el Pokémon reduce la Velocidad del atacante.",
+        "pokemons": [
+            "Goodra",
+            "Goomy",
+            "Hisuian Goodra",
+            "Hisuian Sliggoo",
+            "Sliggoo",
+            "Wiglett",
+            "Wugtrio"
+        ]
+    },
+    {
+        "name": "Monotema",
+        "effect": "Aumenta el Ataque del Pokémon, pero solo le permite usar el primer movimiento seleccionado.",
+        "pokemons": [
+            "Darmanitan (Galar Standard)",
+            "Darmanitan (Galar Zen)"
+        ]
+    },
+    {
+        "name": "Manto Herboso",
+        "effect": "Aumenta la Defensa del Pokémon cuando el Campo de Hierba está activo.",
+        "pokemons": [
+            "Gogoat",
+            "Skiddo"
+        ]
+    },
+    {
+        "name": "Herbogénesis",
+        "effect": "Convierte el terreno en Campo de Hierba cuando el Pokémon entra en combate.",
+        "pokemons": [
+            "Grookey",
+            "Rillaboom",
+            "Rillaboom (Gmax)",
+            "Tapu Bulu",
+            "Thwackey"
+        ]
+    },
+    {
+        "name": "Relincho Negro",
+        "effect": "Cuando el Pokémon debilita a un objetivo, emite un relincho aterrador que aumenta su Ataque Especial.",
+        "pokemons": [
+            "Spectrier"
+        ]
+    },
+    {
+        "name": "Perro Guardián",
+        "effect": "Aumenta el Ataque del Pokémon si es intimidado. Además, los movimientos y objetos que obligarían al Pokémon a retirarse fallan.",
+        "pokemons": [
+            "Mabosstiff",
+            "Okidogi"
+        ]
+    },
+    {
+        "name": "Tragamisil",
+        "effect": "Cuando el Pokémon usa Surf o Buceo, regresa con una presa. Si recibe daño, escupirá la presa para atacar.",
+        "pokemons": [
+            "Cramorant",
+            "Cramorant (Gorging)",
+            "Cramorant (Gulping)"
+        ]
+    },
+    {
+        "name": "Agallas",
+        "effect": "El coraje del Pokémon aumenta su Ataque cuando sufre un problema de estado.",
+        "pokemons": [
+            "Conkeldurr",
+            "Gurdurr",
+            "Machamp (Gmax)",
+            "Obstagoon",
+            "Squawkabilly",
+            "Squawkabilly (Blue Plumage)",
+            "Squawkabilly (Green Plumage)",
+            "Throh",
+            "Timburr",
+            "Ursaluna"
+        ]
+    },
+    {
+        "name": "Motor Hadrónico",
+        "effect": "Convierte el terreno en Campo Eléctrico cuando el Pokémon entra en combate. El motor futurista del Pokémon también aumenta su Ataque Especial mientras el Campo Eléctrico esté activo.",
+        "pokemons": [
+            "Miraidon",
+            "Miraidon (Aquatic Mode)",
+            "Miraidon (Drive Mode)",
+            "Miraidon (Glide Mode)",
+            "Miraidon (Low Power Mode)"
+        ]
+    },
+    {
+        "name": "Cosecha",
+        "effect": "Puede generar otra Baya después de haber consumido una.",
+        "pokemons": [
+            "Alolan Exeggutor",
+            "Arboliva",
+            "Dolliv",
+            "Exeggcute",
+            "Exeggutor",
+            "Phantump",
+            "Smoliv",
+            "Trevenant",
+            "Tropius"
+        ]
+    },
+    {
+        "name": "Alma Cura",
+        "effect": "A veces cura los problemas de estado de los Pokémon aliados.",
+        "pokemons": [
+            "Alomomola",
+            "Aromatisse",
+            "Audino",
+            "Blissey",
+            "Hatenna",
+            "Hatterene",
+            "Hatterene (Gmax)",
+            "Hattrem",
+            "Mega Audino",
+            "Spritzee"
+        ]
+    },
+    {
+        "name": "Ignífugo",
+        "effect": "El cuerpo resistente al calor del Pokémon reduce a la mitad el daño recibido de movimientos de tipo Fuego.",
+        "pokemons": [
+            "Bronzong",
+            "Bronzor",
+            "Poltchageist",
+            "Rolycoly",
+            "Sinistcha"
+        ]
+    },
+    {
+        "name": "Prestidigitador",
+        "effect": "El Pokémon roba el objeto equipado de cualquier objetivo al que golpee con un movimiento.",
+        "pokemons": [
+            "Braixen",
+            "Delphox",
+            "Fennekin",
+            "Hoopa",
+            "Hoopa (Unbound)",
+            "Klefki"
+        ]
+    },
+    {
+        "name": "Escudo Magma",
+        "effect": "La capa de magma del Pokémon evita que se congele.",
+        "pokemons": [
+            "Camerupt",
+            "Magcargo",
+            "Slugma"
+        ]
+    },
+    {
+        "name": "Imán",
+        "effect": "Impide que los Pokémon de tipo Acero huyan atrayéndolos mediante magnetismo.",
+        "pokemons": [
+            "Alolan Geodude",
+            "Alolan Golem",
+            "Alolan Graveler",
+            "Magnemite",
+            "Magneton",
+            "Magnezone",
+            "Meltan",
+            "Nosepass",
+            "Probopass"
+        ]
+    },
+    {
+        "name": "Escama Especial",
+        "effect": "Las maravillosas escamas del Pokémon aumentan su Defensa cuando sufre un problema de estado.",
+        "pokemons": [
+            "Dragonair",
+            "Dratini",
+            "Milotic"
+        ]
+    },
+    {
+        "name": "Megadisparador",
+        "effect": "Potencia los movimientos de pulso.",
+        "pokemons": [
+            "Clauncher",
+            "Clawitzer",
+            "Mega Blastoise"
+        ]
+    },
+    {
+        "name": "Mega Sol",
+        "effect": "Incluso cuando no hay luz solar intensa, el Pokémon puede utilizar sus movimientos como si el clima fuera de luz solar intensa.",
+        "pokemons": [
+            "Mega Meganium"
+        ]
+    },
+    {
+        "name": "Ensañamiento",
+        "effect": "Los ataques del Pokémon siempre serán golpes críticos si el objetivo está envenenado.",
+        "pokemons": [
+            "Mareanie",
+            "Toxapex"
+        ]
+    },
+    {
+        "name": "Mimetismo",
+        "effect": "Cambia el tipo del Pokémon dependiendo del terreno activo.",
+        "pokemons": [
+            "Galarian Stunfisk"
+        ]
+    },
+    {
+        "name": "Ojo Mental",
+        "effect": "El Pokémon ignora los cambios en la evasión del rival, su precisión no puede reducirse y puede golpear a Pokémon de tipo Fantasma con movimientos de tipo Normal y Lucha.",
+        "pokemons": [
+            "Ursaluna (Bloodmoon)"
+        ]
+    },
+    {
+        "name": "Menos",
+        "effect": "Aumenta el Ataque Especial del Pokémon si un aliado con la habilidad Más o Menos también está combatiendo.",
+        "pokemons": [
+            "Electrike",
+            "Klang",
+            "Klink",
+            "Klinklang",
+            "Manectric",
+            "Minun",
+            "Toxtricity (Low Key Gmax)",
+            "Toxtricity (Low Key)"
+        ]
+    },
+    {
+        "name": "Armadura Reflejo",
+        "effect": "Devuelve únicamente los efectos que reducen las estadísticas del Pokémon.",
+        "pokemons": [
+            "Corviknight",
+            "Corviknight (Gmax)"
+        ]
+    },
+    {
+        "name": "Nebulogénesis",
+        "effect": "Convierte el terreno en Campo de Niebla cuando el Pokémon entra en combate.",
+        "pokemons": [
+            "Galarian Weezing",
+            "Tapu Fini"
+        ]
+    },
+    {
+        "name": "Rompemoldes",
+        "effect": "Los movimientos del Pokémon no se ven afectados por las habilidades del rival durante el combate.",
+        "pokemons": [
+            "Basculegion (Female)",
+            "Basculin (Blue Striped)",
+            "Basculin (Red Striped)",
+            "Basculin (White Striped)",
+            "Mega Ampharos",
+            "Mega Emboar",
+            "Mega Gyarados",
+            "Ogerpon (Hearthflame Mask)",
+            "Tinkaton",
+            "Veluza"
+        ]
+    },
+    {
+        "name": "Veleta",
+        "effect": "En cada turno, una de las estadísticas del Pokémon aumenta considerablemente mientras otra disminuye.",
+        "pokemons": [
+            "Bibarel",
+            "Bidoof",
+            "Glalie",
+            "Octillery",
+            "Remoraid",
+            "Scovillain",
+            "Smeargle",
+            "Snorunt"
+        ]
+    },
+    {
+        "name": "Electromotor",
+        "effect": "El Pokémon no recibe daño de movimientos de tipo Eléctrico. En su lugar, aumenta su Velocidad.",
+        "pokemons": [
+            "Blitzle",
+            "Electivire",
+            "Emolga",
+            "Zebstrika"
+        ]
+    },
+    {
+        "name": "Autoestima",
+        "effect": "Cuando el Pokémon debilita a un objetivo, aumenta su Ataque.",
+        "pokemons": [
+            "Krokorok",
+            "Krookodile",
+            "Litleo",
+            "Pyroar",
+            "Pyroar (Male)",
+            "Quaquaval",
+            "Quaxly",
+            "Quaxwell",
+            "Scrafty",
+            "Scraggy"
+        ]
+    },
+    {
+        "name": "Multiescamas",
+        "effect": "Reduce el daño recibido en un 50% cuando el Pokémon tiene todos sus PS.",
+        "pokemons": [
+            "Dragonite",
+            "Lugia",
+            "Mega Dragonite"
+        ]
+    },
+    {
+        "name": "Multitipo",
+        "effect": "Cambia el tipo del Pokémon para que coincida con la tabla que lleva equipada.",
+        "pokemons": [
+            "Arceus"
+        ]
+    },
+    {
+        "name": "Momia",
+        "effect": "El contacto con el Pokémon cambia la habilidad del atacante a Momia.",
+        "pokemons": [
+            "Cofagrigus",
+            "Yamask"
+        ]
+    },
+    {
+        "name": "Poder Micológico",
+        "effect": "El Pokémon siempre actuará más lento al usar movimientos de estado, pero estos ignorarán la habilidad del objetivo.",
+        "pokemons": [
+            "Toedscool",
+            "Toedscruel"
+        ]
+    },
+    {
+        "name": "Cura Natural",
+        "effect": "Los problemas de estado del Pokémon se curan cuando se retira del combate.",
+        "pokemons": [
+            "Comfey",
+            "Happiny",
+            "Pawmi",
+            "Pawmo",
+            "Pawmot",
+            "Phantump",
+            "Roserade",
+            "Shaymin",
+            "Shaymin (Land)",
+            "Trevenant"
+        ]
+    },
+    {
+        "name": "Neurofuerza",
+        "effect": "Potencia los movimientos supereficaces.",
+        "pokemons": [
+            "Necrozma (Ultra)"
+        ]
+    },
+    {
+        "name": "Gas Reactivo",
+        "effect": "Mientras el Pokémon está en combate, las habilidades de todos los demás Pokémon quedan anuladas o no se activan.",
+        "pokemons": [
+            "Galarian Weezing",
+            "Koffing",
+            "Weezing"
+        ]
+    },
+    {
+        "name": "Indefenso",
+        "effect": "La precisión de todos los movimientos usados por este Pokémon y contra él pasa a ser del 100%.",
+        "pokemons": [
+            "Doublade",
+            "Golett",
+            "Golurk",
+            "Honedge",
+            "Karrablast",
+            "Lycanroc (Midnight)",
+            "Machamp (Gmax)",
+            "Mega Hawlucha",
+            "Mega Pidgeot",
+            "Mega Raichu Y"
+        ]
+    },
+    {
+        "name": "Normalidad",
+        "effect": "Todos los movimientos del Pokémon se convierten en movimientos de tipo Normal. La potencia de esos movimientos aumenta ligeramente.",
+        "pokemons": [
+            "Delcatty",
+            "Skitty"
+        ]
+    },
+    {
+        "name": "Despiste",
+        "effect": "El Pokémon está tan despistado que no puede enamorarse, ser provocado ni verse afectado por Intimidación.",
+        "pokemons": [
+            "Bounsweet",
+            "Dondozo",
+            "Lickilicky",
+            "Mamoswine",
+            "Salandit",
+            "Salazzle",
+            "Salazzle (Totem)",
+            "Sealeo",
+            "Steenee",
+            "Walrein"
+        ]
+    },
+    {
+        "name": "Oportunista",
+        "effect": "Si un rival aumenta una estadística, el Pokémon aprovecha la oportunidad para aumentar esa misma estadística.",
+        "pokemons": [
+            "Espathra"
+        ]
+    },
+    {
+        "name": "Pulso Oricalco",
+        "effect": "Provoca luz solar intensa cuando el Pokémon entra en combate. El pulso ancestral que recorre su cuerpo también aumenta su Ataque bajo luz solar intensa.",
+        "pokemons": [
+            "Koraidon",
+            "Koraidon (Gliding Build)",
+            "Koraidon (Limited Build)",
+            "Koraidon (Sprinting Build)",
+            "Koraidon (Swimming Build)"
+        ]
+    },
+    {
+        "name": "Funda",
+        "effect": "El Pokémon no recibe daño de las tormentas de arena. También está protegido contra polvos y esporas.",
+        "pokemons": [
+            "Enamorus (Therian)",
+            "Hakamo-o",
+            "Jangmo-o",
+            "Kommo-o",
+            "Kommo-o (Totem)",
+            "Revavroom",
+            "Varoom",
+            "Wormadam (Plant)",
+            "Wormadam (Sandy)",
+            "Wormadam (Trash)"
+        ]
+    },
+    {
+        "name": "Espesura",
+        "effect": "Potencia los movimientos de tipo Planta cuando los PS del Pokémon son bajos.",
+        "pokemons": [
+            "Decidueye",
+            "Floragato",
+            "Grookey",
+            "Hisuian Decidueye",
+            "Meowscarada",
+            "Rillaboom",
+            "Rillaboom (Gmax)",
+            "Sprigatito",
+            "Thwackey",
+            "Venusaur (Gmax)"
+        ]
+    },
+    {
+        "name": "Ritmo Propio",
+        "effect": "El Pokémon sigue su propio ritmo, evitando la confusión y los efectos de Intimidación.",
+        "pokemons": [
+            "Fidough",
+            "Galarian Slowbro",
+            "Galarian Slowking",
+            "Galarian Slowpoke",
+            "Indeedee (Female)",
+            "Rockruff (Own Tempo)",
+            "Tadbulb",
+            "Tinkatink",
+            "Tinkaton",
+            "Tinkatuff"
+        ]
+    },
+    {
+        "name": "Amor Filial",
+        "effect": "El padre y la cría atacan por separado.",
+        "pokemons": [
+            "Mega Kangaskhan"
+        ]
+    },
+    {
+        "name": "Velo Pastel",
+        "effect": "Protege al Pokémon y a sus aliados de ser envenenados.",
+        "pokemons": [
+            "Galarian Ponyta",
+            "Galarian Rapidash"
+        ]
+    },
+    {
+        "name": "Cuerpo Mortal",
+        "effect": "Cuando recibe un movimiento de contacto, el Pokémon y el atacante se debilitarán tras tres turnos, a menos que se retiren del combate.",
+        "pokemons": [
+            "Cursola"
+        ]
+    },
+    {
+        "name": "Hurto",
+        "effect": "El Pokémon roba el objeto equipado a los atacantes que hacen contacto directo con él.",
+        "pokemons": [
+            "Barbaracle",
+            "Grimmsnarl",
+            "Grimmsnarl (Gmax)",
+            "Hisuian Sneasel",
+            "Impidimp",
+            "Morgrem",
+            "Shroodle",
+            "Tinkatink",
+            "Tinkaton",
+            "Tinkatuff"
+        ]
+    },
+    {
+        "name": "Recogida",
+        "effect": "El Pokémon puede recoger un objeto usado por otro Pokémon durante el combate. También puede recoger objetos fuera de combate.",
+        "pokemons": [
+            "Galarian Linoone",
+            "Gourgeist (Average)",
+            "Gourgeist (Large)",
+            "Gourgeist (Small)",
+            "Gourgeist (Super)",
+            "Meowth (Gmax)",
+            "Pumpkaboo (Average)",
+            "Pumpkaboo (Large)",
+            "Pumpkaboo (Small)",
+            "Pumpkaboo (Super)"
+        ]
+    },
+    {
+        "name": "Taladro Perforante",
+        "effect": "Cuando el Pokémon usa movimientos de contacto, puede golpear incluso a objetivos protegidos, infligiendo una cuarta parte del daño que normalmente causaría el movimiento. Todos los demás efectos del movimiento se siguen aplicando.",
+        "pokemons": [
+            "Mega Excadrill"
+        ]
+    },
+    {
+        "name": "Piel Feérica",
+        "effect": "Los movimientos de tipo Normal se convierten en movimientos de tipo Hada. La potencia de esos movimientos aumenta ligeramente.",
+        "pokemons": [
+            "Mega Altaria",
+            "Mega Gardevoir",
+            "Sylveon"
+        ]
+    },
+    {
+        "name": "Más",
+        "effect": "Aumenta el Ataque Especial del Pokémon si un aliado con la habilidad Más o Menos también está combatiendo.",
+        "pokemons": [
+            "Ampharos",
+            "Dedenne",
+            "Flaaffy",
+            "Klang",
+            "Klink",
+            "Klinklang",
+            "Plusle",
+            "Toxtricity",
+            "Toxtricity (Amped Gmax)",
+            "Toxtricity (Amped)"
+        ]
+    },
+    {
+        "name": "Antídoto",
+        "effect": "Si está envenenado, el Pokémon recupera PS en lugar de recibir daño.",
+        "pokemons": [
+            "Breloom",
+            "Gliscor",
+            "Shroomish"
+        ]
+    },
+    {
+        "name": "Punto Tóxico",
+        "effect": "El contacto con el Pokémon puede envenenar al atacante.",
+        "pokemons": [
+            "Clodsire",
+            "Dragalge",
+            "Hisuian Qwilfish",
+            "Overqwil",
+            "Paldean Wooper",
+            "Roserade",
+            "Scolipede",
+            "Skrelp",
+            "Venipede",
+            "Whirlipede"
+        ]
+    },
+    {
+        "name": "Toxicomía",
+        "effect": "Los Pokémon envenenados por los movimientos de Pecharunt también se confundirán.",
+        "pokemons": [
+            "Pecharunt"
+        ]
+    },
+    {
+        "name": "Toque Tóxico",
+        "effect": "Puede envenenar al objetivo cuando el Pokémon hace contacto.",
+        "pokemons": [
+            "Alolan Grimer",
+            "Alolan Muk",
+            "Croagunk",
+            "Dragalge",
+            "Grafaiai",
+            "Muk",
+            "Seismitoad",
+            "Skrelp",
+            "Sneasler",
+            "Toxicroak"
+        ]
+    },
+    {
+        "name": "Agrupamiento",
+        "effect": "Cuando sus PS se reducen a la mitad o menos, otras células acuden en su ayuda y el Pokémon cambia a su Forma Completa.",
+        "pokemons": [
+            "Zygarde (10 Power Construct)",
+            "Zygarde (50 Power Construct)",
+            "Zygarde (Complete)"
+        ]
+    },
+    {
+        "name": "Fuente Energía",
+        "effect": "La simple presencia del Pokémon aumenta la potencia de los movimientos.",
+        "pokemons": [
+            "Stonjourner"
+        ]
+    },
+    {
+        "name": "Reacción Química",
+        "effect": "El Pokémon copia la habilidad de un aliado debilitado.",
+        "pokemons": [
+            "Alolan Grimer",
+            "Alolan Muk"
+        ]
+    },
+    {
+        "name": "Bromista",
+        "effect": "Otorga prioridad a los movimientos de estado del Pokémon.",
+        "pokemons": [
+            "Grafaiai",
+            "Grimmsnarl",
+            "Grimmsnarl (Gmax)",
+            "Impidimp",
+            "Mega Banette",
+            "Meowstic (Male)",
+            "Morgrem",
+            "Shroodle",
+            "Thundurus (Incarnate)",
+            "Tornadus (Incarnate)"
+        ]
+    },
+    {
+        "name": "Presión",
+        "effect": "Somete a presión a otros Pokémon, haciendo que gasten más PP al usar sus movimientos.",
+        "pokemons": [
+            "Corviknight (Gmax)",
+            "Deoxys (Attack)",
+            "Deoxys (Defense)",
+            "Deoxys (Normal)",
+            "Deoxys (Speed)",
+            "Dialga (Origin)",
+            "Eternatus (Eternamax)",
+            "Giratina (Altered)",
+            "Kingambit",
+            "Palkia (Origin)"
+        ]
+    },
+    {
+        "name": "Mar del Albor",
+        "effect": "El Pokémon altera el clima para anular los ataques de tipo Fuego.",
+        "pokemons": [
+            "Kyogre (Primal)"
+        ]
+    },
+    {
+        "name": "Armadura Prisma",
+        "effect": "Reduce el daño recibido de los ataques supereficaces.",
+        "pokemons": [
+            "Necrozma",
+            "Necrozma (Dawn)",
+            "Necrozma (Dusk)"
+        ]
+    },
+    {
+        "name": "Cola Propulsora",
+        "effect": "Ignora los efectos de habilidades y movimientos rivales que redirigen ataques.",
+        "pokemons": [
+            "Arrokuda",
+            "Barraskewda"
+        ]
+    },
+    {
+        "name": "Mutatipo",
+        "effect": "Antes de usar un movimiento, el Pokémon se convierte en un Pokémon de ese tipo. Esto solo funciona una vez por entrada al combate.",
+        "pokemons": [
+            "Floragato",
+            "Froakie",
+            "Frogadier",
+            "Greninja",
+            "Kecleon",
+            "Mega Greninja",
+            "Meowscarada",
+            "Sprigatito"
+        ]
+    },
+    {
+        "name": "Paleosíntesis",
+        "effect": "Aumenta la estadística más alta del Pokémon bajo luz solar intensa o si lleva Energía Potenciadora.",
+        "pokemons": [
+            "Brute Bonnet",
+            "Flutter Mane",
+            "Gouging Fire",
+            "Great Tusk",
+            "Raging Bolt",
+            "Roaring Moon",
+            "Sandy Shocks",
+            "Scream Tail",
+            "Slither Wing",
+            "Walking Wake"
+        ]
+    },
+    {
+        "name": "Psicogénesis",
+        "effect": "Convierte el terreno en Campo Psíquico cuando el Pokémon entra en combate.",
+        "pokemons": [
+            "Indeedee",
+            "Indeedee (Female)",
+            "Indeedee (Male)",
+            "Tapu Lele"
+        ]
+    },
+    {
+        "name": "Punk Rock",
+        "effect": "Aumenta la potencia de los movimientos basados en sonido. Además, el Pokémon recibe la mitad del daño de este tipo de movimientos.",
+        "pokemons": [
+            "Toxtricity",
+            "Toxtricity (Amped Gmax)",
+            "Toxtricity (Amped)",
+            "Toxtricity (Low Key Gmax)",
+            "Toxtricity (Low Key)"
+        ]
+    },
+    {
+        "name": "Energía Pura",
+        "effect": "Gracias a su energía pura, el Pokémon duplica su Ataque.",
+        "pokemons": [
+            "Medicham",
+            "Meditite",
+            "Mega Medicham"
+        ]
+    },
+    {
+        "name": "Sal Purificadora",
+        "effect": "La sal pura del Pokémon lo protege de los problemas de estado y reduce a la mitad el daño recibido de movimientos de tipo Fantasma.",
+        "pokemons": [
+            "Garganacl",
+            "Nacli",
+            "Naclstack"
+        ]
+    },
+    {
+        "name": "Carga Cuark",
+        "effect": "Aumenta la estadística más alta del Pokémon bajo Campo Eléctrico o si lleva Energía Potenciadora.",
+        "pokemons": [
+            "Iron Boulder",
+            "Iron Bundle",
+            "Iron Crown",
+            "Iron Hands",
+            "Iron Jugulis",
+            "Iron Leaves",
+            "Iron Moth",
+            "Iron Thorns",
+            "Iron Treads",
+            "Iron Valiant"
+        ]
+    },
+    {
+        "name": "Majestad",
+        "effect": "Los rivales no pueden usar movimientos con prioridad contra el Pokémon ni sus aliados.",
+        "pokemons": [
+            "Tsareena"
+        ]
+    },
+    {
+        "name": "Desenfunde Rápido",
+        "effect": "Permite que el Pokémon actúe primero ocasionalmente.",
+        "pokemons": [
+            "Galarian Slowbro"
+        ]
+    },
+    {
+        "name": "Pies Rápidos",
+        "effect": "Aumenta la Velocidad del Pokémon si sufre un problema de estado.",
+        "pokemons": [
+            "Galarian Linoone",
+            "Galarian Zigzagoon",
+            "Granbull",
+            "Linoone",
+            "Mightyena",
+            "Poochyena",
+            "Shroomish",
+            "Teddiursa",
+            "Ursaring",
+            "Zigzagoon"
+        ]
+    },
+    {
+        "name": "Sistema Alfa",
+        "effect": "Cambia el tipo del Pokémon para que coincida con el disco de memoria que lleva equipado.",
+        "pokemons": [
+            "Silvally"
+        ]
+    },
+    {
+        "name": "Cura Lluvia",
+        "effect": "El Pokémon recupera PS gradualmente mientras llueve.",
+        "pokemons": [
+            "Blastoise (Gmax)",
+            "Lombre",
+            "Lotad",
+            "Ludicolo",
+            "Morelull",
+            "Pelipper",
+            "Shiinotic",
+            "Surskit",
+            "Tentacruel",
+            "Wingull"
+        ]
+    },
+    {
+        "name": "Cobardía",
+        "effect": "El Pokémon se asusta al recibir un ataque de tipo Siniestro, Fantasma o Bicho, o al ser intimidado, aumentando su Velocidad.",
+        "pokemons": [
+            "Alolan Meowth",
+            "Alolan Persian",
+            "Basculin (White Striped)",
+            "Dudunsparce",
+            "Dudunsparce (Three Segment)",
+            "Dudunsparce (Two Segment)",
+            "Gimmighoul",
+            "Toxel",
+            "Wiglett",
+            "Wugtrio"
+        ]
+    },
+    {
+        "name": "Receptor",
+        "effect": "El Pokémon copia la habilidad de un aliado debilitado.",
+        "pokemons": [
+            "Passimian"
+        ]
+    },
+    {
+        "name": "Audaz",
+        "effect": "Potencia los movimientos que causan daño de retroceso.",
+        "pokemons": [
+            "Basculin",
+            "Basculin (Red Striped)",
+            "Bouffalant",
+            "Emboar",
+            "Mienfoo",
+            "Mienshao",
+            "Obstagoon",
+            "Rhyperior",
+            "Staraptor",
+            "Staravia"
+        ]
+    },
+    {
+        "name": "Piel Helada",
+        "effect": "Los movimientos de tipo Normal se convierten en movimientos de tipo Hielo. La potencia de esos movimientos aumenta ligeramente.",
+        "pokemons": [
+            "Amaura",
+            "Aurorus",
+            "Mega Glalie"
+        ]
+    },
+    {
+        "name": "Regeneración",
+        "effect": "El Pokémon recupera una pequeña cantidad de PS al retirarse del combate.",
+        "pokemons": [
+            "Cyclizar",
+            "Eldegoss",
+            "Galarian Slowbro",
+            "Galarian Slowking",
+            "Galarian Slowpoke",
+            "Gossifleur",
+            "Hydrapple",
+            "Klawf",
+            "Mega Dragalge",
+            "Tornadus (Therian)"
+        ]
+    },
+    {
+        "name": "Maduración",
+        "effect": "Madura las Bayas y duplica sus efectos.",
+        "pokemons": [
+            "Appletun",
+            "Appletun (Gmax)",
+            "Applin",
+            "Flapple",
+            "Flapple (Gmax)"
+        ]
+    },
+    {
+        "name": "Rivalidad",
+        "effect": "El espíritu competitivo del Pokémon hace que cause más daño a Pokémon del mismo sexo y menos daño a Pokémon del sexo opuesto.",
+        "pokemons": [
+            "Axew",
+            "Fraxure",
+            "Haxorus",
+            "Litleo",
+            "Luxray",
+            "Pidove",
+            "Pyroar",
+            "Pyroar (Male)",
+            "Tranquill",
+            "Unfezant"
+        ]
+    },
+    {
+        "name": "Cabeza Roca",
+        "effect": "Protege al Pokémon del daño por retroceso.",
+        "pokemons": [
+            "Alolan Marowak",
+            "Bagon",
+            "Basculin (Blue Striped)",
+            "Bonsly",
+            "Hisuian Arcanine",
+            "Hisuian Growlithe",
+            "Marowak (Totem)",
+            "Relicanth",
+            "Shelgon",
+            "Tyrantrum"
+        ]
+    },
+    {
+        "name": "Carga Rocosa",
+        "effect": "Potencia los movimientos de tipo Roca.",
+        "pokemons": [
+            "Bombirdier"
+        ]
+    },
+    {
+        "name": "Piel Tosca",
+        "effect": "La piel áspera del Pokémon daña a los atacantes que hacen contacto directo con él.",
+        "pokemons": [
+            "Carvanha",
+            "Druddigon",
+            "Gabite",
+            "Garchomp",
+            "Gible",
+            "Sharpedo"
+        ]
+    },
+    {
+        "name": "Fuga",
+        "effect": "Permite escapar siempre de Pokémon salvajes.",
+        "pokemons": [
+            "Dudunsparce",
+            "Dudunsparce (Three Segment)",
+            "Dudunsparce (Two Segment)",
+            "Eevee (Gmax)",
+            "Eevee (Starter)",
+            "Galarian Ponyta",
+            "Galarian Rapidash",
+            "Gimmighoul (Roaming)",
+            "Maschiff",
+            "Tandemaus"
+        ]
+    },
+    {
+        "name": "Ímpetu Arena",
+        "effect": "Potencia los movimientos de tipo Roca, Tierra y Acero durante una tormenta de arena.",
+        "pokemons": [
+            "Alolan Diglett",
+            "Alolan Dugtrio",
+            "Boldore",
+            "Drilbur",
+            "Excadrill",
+            "Gigalith",
+            "Landorus",
+            "Landorus (Incarnate)",
+            "Mega Garchomp",
+            "Mega Steelix"
+        ]
+    },
+    {
+        "name": "Ímpetu Arena",
+        "effect": "Aumenta la Velocidad del Pokémon durante una tormenta de arena.",
+        "pokemons": [
+            "Dracovish",
+            "Dracozolt",
+            "Drilbur",
+            "Excadrill",
+            "Herdier",
+            "Houndstone",
+            "Lycanroc (Midday)",
+            "Sandshrew",
+            "Sandslash",
+            "Stoutland"
+        ]
+    },
+    {
+        "name": "Chorro Arena",
+        "effect": "El Pokémon provoca una tormenta de arena cuando recibe un ataque.",
+        "pokemons": [
+            "Sandaconda",
+            "Sandaconda (Gmax)",
+            "Silicobra"
+        ]
+    },
+    {
+        "name": "Chorro Arena",
+        "effect": "El Pokémon provoca una tormenta de arena al entrar en combate.",
+        "pokemons": [
+            "Gigalith",
+            "Hippopotas",
+            "Hippowdon",
+            "Mega Tyranitar",
+            "Tyranitar"
+        ]
+    },
+    {
+        "name": "Velo Arena",
+        "effect": "Aumenta la evasión del Pokémon durante una tormenta de arena.",
+        "pokemons": [
+            "Alolan Diglett",
+            "Alolan Dugtrio",
+            "Orthworm",
+            "Palossand",
+            "Sandaconda",
+            "Sandaconda (Gmax)",
+            "Sandygast",
+            "Silicobra",
+            "Wiglett",
+            "Wugtrio"
+        ]
+    },
+    {
+        "name": "Herbívoro",
+        "effect": "El Pokémon no recibe daño de movimientos de tipo Planta. En su lugar, aumenta su Ataque.",
+        "pokemons": [
+            "Drampa",
+            "Farigiraf",
+            "Gogoat",
+            "Goodra",
+            "Goomy",
+            "Hisuian Goodra",
+            "Hisuian Sliggoo",
+            "Skiddo",
+            "Sliggoo",
+            "Wyrdeer"
+        ]
+    },
+    {
+        "name": "Banco",
+        "effect": "Cuando tiene muchos PS, el Pokémon forma un poderoso banco. Deja de hacerlo cuando sus PS son bajos.",
+        "pokemons": [
+            "Wishiwashi",
+            "Wishiwashi (School)",
+            "Wishiwashi (Solo)"
+        ]
+    },
+    {
+        "name": "Intrépido",
+        "effect": "El Pokémon puede golpear a Pokémon de tipo Fantasma con movimientos de tipo Normal y Lucha. Además, no se ve afectado por Intimidación.",
+        "pokemons": [
+            "Exploud",
+            "Flamigo",
+            "Galarian Farfetch’d",
+            "Herdier",
+            "Hisuian Decidueye",
+            "Mega Lopunny",
+            "Pancham",
+            "Pangoro",
+            "Sirfetch’d",
+            "Stoutland"
+        ]
+    },
+    {
+        "name": "Antibarrera",
+        "effect": "Cuando el Pokémon entra en combate, anula los efectos de Pantalla Luz, Reflejo y Velo Aurora para ambos bandos.",
+        "pokemons": [
+            "Galarian Mr. Mime",
+            "Mr. Rime"
+        ]
+    },
+    {
+        "name": "Semillero",
+        "effect": "Convierte el terreno en Campo de Hierba cuando el Pokémon recibe un ataque.",
+        "pokemons": [
+            "Arboliva"
+        ]
+    },
+    {
+        "name": "Dicha",
+        "effect": "Aumenta la probabilidad de que ocurran efectos secundarios al usar movimientos.",
+        "pokemons": [
+            "Deerling",
+            "Dudunsparce",
+            "Dudunsparce (Three Segment)",
+            "Dudunsparce (Two Segment)",
+            "Meloetta",
+            "Meloetta (Aria)",
+            "Meloetta (Pirouette)",
+            "Sawsbuck",
+            "Shaymin (Sky)",
+            "Togekiss"
+        ]
+    },
+    {
+        "name": "Escudo Espectro",
+        "effect": "Reduce el daño recibido mientras el Pokémon tenga todos sus PS.",
+        "pokemons": [
+            "Lunala"
+        ]
+    },
+    {
+        "name": "Sombra Trampa",
+        "effect": "El Pokémon pisa la sombra del rival para impedirle huir o cambiar.",
+        "pokemons": [
+            "Gothita",
+            "Gothitelle",
+            "Gothorita",
+            "Mega Gengar",
+            "Wobbuffet",
+            "Wynaut"
+        ]
+    },
+    {
+        "name": "Corte Fuerte",
+        "effect": "Potencia los movimientos cortantes.",
+        "pokemons": [
+            "Gallade",
+            "Hisuian Samurott",
+            "Kleavor",
+            "Veluza"
+        ]
+    },
+    {
+        "name": "Mudar",
+        "effect": "El Pokémon puede curar sus propios problemas de estado mudando la piel.",
+        "pokemons": [
+            "Cyclizar",
+            "Karrablast",
+            "Rellor",
+            "Sandaconda",
+            "Sandaconda (Gmax)",
+            "Scrafty",
+            "Scraggy",
+            "Silcoon",
+            "Silicobra",
+            "Spewpa"
+        ]
+    },
+    {
+        "name": "Potencia Bruta",
+        "effect": "Elimina los efectos secundarios de los movimientos del Pokémon, pero aumenta su potencia.",
+        "pokemons": [
+            "Cetoddle",
+            "Copperajah (Gmax)",
+            "Darmanitan (Standard)",
+            "Darmanitan (Zen)",
+            "Hisuian Braviary",
+            "Kingler (Gmax)",
+            "Landorus (Incarnate)",
+            "Mega Camerupt",
+            "Squawkabilly (White Plumage)",
+            "Squawkabilly (Yellow Plumage)"
+        ]
+    },
+    {
+        "name": "Caparazón",
+        "effect": "El duro caparazón del Pokémon lo protege de los golpes críticos.",
+        "pokemons": [
+            "Chewtle",
+            "Drednaw",
+            "Drednaw (Gmax)",
+            "Hisuian Goodra",
+            "Hisuian Sliggoo",
+            "Kingler (Gmax)",
+            "Klawf",
+            "Lapras (Gmax)",
+            "Mega Scolipede",
+            "Mega Slowbro"
+        ]
+    },
+    {
+        "name": "Polvo Escudo",
+        "effect": "El polvo protector evita los efectos secundarios de los movimientos.",
+        "pokemons": [
+            "Cutiefly",
+            "Dustox",
+            "Frosmoth",
+            "Ribombee",
+            "Ribombee (Totem)",
+            "Scatterbug",
+            "Snom",
+            "Venomoth",
+            "Vivillon",
+            "Wurmple"
+        ]
+    },
+    {
+        "name": "Escudo Limitado",
+        "effect": "Cuando sus PS bajan a la mitad o menos, el caparazón del Pokémon se rompe y este se vuelve agresivo.",
+        "pokemons": [
+            "Minior",
+            "Minior (Red Meteor)",
+            "Minior (Red)"
+        ]
+    },
+    {
+        "name": "Simple",
+        "effect": "Duplica el efecto de los cambios de estadísticas del Pokémon.",
+        "pokemons": [
+            "Bibarel",
+            "Bidoof",
+            "Numel",
+            "Swoobat",
+            "Woobat"
+        ]
+    },
+    {
+        "name": "Encadenado",
+        "effect": "Maximiza el número de golpes de los movimientos múltiples.",
+        "pokemons": [
+            "Aipom",
+            "Ambipom",
+            "Cinccino",
+            "Cloyster",
+            "Mega Heracross",
+            "Minccino",
+            "Pikipek",
+            "Shellder",
+            "Toucannon",
+            "Trumbeak"
+        ]
+    },
+    {
+        "name": "Inicio Lento",
+        "effect": "Durante cinco turnos, el Ataque y la Velocidad del Pokémon se reducen a la mitad.",
+        "pokemons": [
+            "Regigigas",
+            "Varoom"
+        ]
+    },
+    {
+        "name": "Quitanieves",
+        "effect": "Aumenta la Velocidad del Pokémon durante la nieve.",
+        "pokemons": [
+            "Alolan Sandshrew",
+            "Alolan Sandslash",
+            "Arctovish",
+            "Arctozolt",
+            "Beartic",
+            "Cetitan",
+            "Cubchoo"
+        ]
+    },
+    {
+        "name": "Francotirador",
+        "effect": "Si el ataque del Pokémon resulta ser un golpe crítico, el daño aumenta aún más.",
+        "pokemons": [
+            "Barbaracle",
+            "Binacle",
+            "Drapion",
+            "Drizzile",
+            "Inteleon",
+            "Inteleon (Gmax)",
+            "Kingdra",
+            "Remoraid",
+            "Skorupi",
+            "Sobble"
+        ]
+    },
+    {
+        "name": "Manto Níveo",
+        "effect": "Aumenta la evasión del Pokémon durante la nieve.",
+        "pokemons": [
+            "Alolan Ninetales",
+            "Alolan Sandshrew",
+            "Alolan Sandslash",
+            "Alolan Vulpix",
+            "Beartic",
+            "Cetoddle",
+            "Cubchoo",
+            "Froslass",
+            "Vanillish",
+            "Vanillite"
+        ]
+    },
+    {
+        "name": "Nevada",
+        "effect": "Provoca una nevada al entrar en combate. Desde la sexta generación, dura cinco turnos.",
+        "pokemons": [
+            "Abomasnow",
+            "Alolan Ninetales",
+            "Alolan Vulpix",
+            "Amaura",
+            "Aurorus",
+            "Mega Abomasnow",
+            "Mega Froslass",
+            "Snover",
+            "Vanilluxe"
+        ]
+    },
+    {
+        "name": "Poder Solar",
+        "effect": "Bajo luz solar intensa, aumenta el Ataque Especial del Pokémon, pero pierde PS cada turno.",
+        "pokemons": [
+            "Charizard",
+            "Charizard (Gmax)",
+            "Charmander",
+            "Charmeleon",
+            "Heliolisk",
+            "Helioptile",
+            "Mega Houndoom",
+            "Sunflora",
+            "Sunkern",
+            "Tropius"
+        ]
+    },
+    {
+        "name": "Roca Sólida",
+        "effect": "Reduce la potencia de los ataques supereficaces que golpean al Pokémon.",
+        "pokemons": [
+            "Camerupt",
+            "Carracosta",
+            "Rhyperior",
+            "Tirtouga"
+        ]
+    },
+    {
+        "name": "Coránima",
+        "effect": "Aumenta el Ataque Especial del Pokémon cada vez que otro Pokémon se debilita.",
+        "pokemons": [
+            "Magearna",
+            "Magearna (Original)"
+        ]
+    },
+    {
+        "name": "Insonorizar",
+        "effect": "La insonorización otorga inmunidad total a todos los movimientos basados en sonido.",
+        "pokemons": [
+            "Abomasnow",
+            "Bouffalant",
+            "Hakamo-o",
+            "Hisuian Electrode",
+            "Hisuian Voltorb",
+            "Jangmo-o",
+            "Kommo-o",
+            "Kommo-o (Totem)",
+            "Mime Jr.",
+            "Snover"
+        ]
+    },
+    {
+        "name": "Impulso",
+        "effect": "La Velocidad del Pokémon aumenta al final de cada turno.",
+        "pokemons": [
+            "Carvanha",
+            "Espathra",
+            "Flittle",
+            "Mega Blaziken",
+            "Ninjask",
+            "Scolipede",
+            "Sharpedo",
+            "Venipede",
+            "Whirlipede",
+            "Yanmega"
+        ]
+    },
+    {
+        "name": "Spray Picante",
+        "effect": "Cuando el Pokémon recibe daño de un movimiento, quema al atacante.",
+        "pokemons": [
+            "Mega Scovillain"
+        ]
+    },
+    {
+        "name": "Vigilante",
+        "effect": "Duplica el daño infligido a un objetivo que acaba de entrar en combate.",
+        "pokemons": [
+            "Gumshoos",
+            "Gumshoos (Totem)",
+            "Mabosstiff",
+            "Maschiff",
+            "Nickit",
+            "Spidops",
+            "Tarountula",
+            "Thievul",
+            "Yungoos"
+        ]
+    },
+    {
+        "name": "Rezagado",
+        "effect": "El Pokémon siempre actúa el último.",
+        "pokemons": [
+            "Sableye"
+        ]
+    },
+    {
+        "name": "Acérrimo",
+        "effect": "Ignora los efectos de habilidades y movimientos rivales que redirigen ataques.",
+        "pokemons": [
+            "Archaludon",
+            "Duraludon",
+            "Duraludon (Gmax)",
+            "Mega Skarmory"
+        ]
+    },
+    {
+        "name": "Firmeza",
+        "effect": "Aumenta la Defensa del Pokémon cuando recibe un ataque.",
+        "pokemons": [
+            "Archaludon",
+            "Mudbray",
+            "Mudsdale"
+        ]
+    },
+    {
+        "name": "Cambio Táctico",
+        "effect": "El Pokémon cambia a Forma Filo cuando usa un movimiento ofensivo y vuelve a Forma Escudo cuando usa Escudo Real.",
+        "pokemons": [
+            "Aegislash",
+            "Aegislash (Blade)",
+            "Aegislash (Shield)"
+        ]
+    },
+    {
+        "name": "Electricidad Estática",
+        "effect": "El Pokémon está cargado de electricidad estática y puede paralizar a los atacantes que hagan contacto directo.",
+        "pokemons": [
+            "Arctozolt",
+            "Bellibolt",
+            "Hisuian Electrode",
+            "Hisuian Voltorb",
+            "Pawmi",
+            "Pikachu (Gmax)",
+            "Pikachu (Starter)",
+            "Stunfisk",
+            "Tadbulb",
+            "Toxel"
+        ]
+    },
+    {
+        "name": "Impasible",
+        "effect": "La determinación del Pokémon aumenta su Velocidad cada vez que retrocede.",
+        "pokemons": [
+            "Dubwool",
+            "Galarian Farfetch’d",
+            "Gallade",
+            "Lucario",
+            "Lycanroc (Midday)",
+            "Machamp (Gmax)",
+            "Mega Mewtwo X",
+            "Riolu",
+            "Rockruff",
+            "Sirfetch’d"
+        ]
+    },
+    {
+        "name": "Combustible",
+        "effect": "Aumenta drásticamente la Velocidad cuando el Pokémon es golpeado por un movimiento de tipo Fuego o Agua.",
+        "pokemons": [
+            "Carkol",
+            "Coalossal",
+            "Coalossal (Gmax)",
+            "Rolycoly"
+        ]
+    },
+    {
+        "name": "Acero Templado",
+        "effect": "Potencia los movimientos de tipo Acero.",
+        "pokemons": [
+            "Dhelmise"
+        ]
+    },
+    {
+        "name": "Alma Acerada",
+        "effect": "Potencia los movimientos de tipo Acero del Pokémon y de sus aliados.",
+        "pokemons": [
+            "Perrserker"
+        ]
+    },
+    {
+        "name": "Hedor",
+        "effect": "Al desprender un hedor al atacar, el Pokémon puede hacer retroceder al objetivo.",
+        "pokemons": [
+            "Garbodor",
+            "Garbodor (Gmax)",
+            "Gloom",
+            "Grimer",
+            "Koffing",
+            "Muk",
+            "Skuntank",
+            "Stunky",
+            "Trubbish",
+            "Weezing"
+        ]
+    },
+    {
+        "name": "Viscosidad",
+        "effect": "Los objetos equipados se adhieren al cuerpo pegajoso del Pokémon y no pueden ser retirados.",
+        "pokemons": [
+            "Accelgor",
+            "Dipplin",
+            "Gastrodon",
+            "Grimer",
+            "Gulpin",
+            "Hydrapple",
+            "Muk",
+            "Shellos",
+            "Swalot",
+            "Trubbish"
+        ]
+    },
+    {
+        "name": "Colector",
+        "effect": "El Pokémon atrae todos los movimientos de tipo Agua. En lugar de recibir daño, aumenta su Ataque Especial.",
+        "pokemons": [
+            "Cradily",
+            "Finneon",
+            "Gastrodon",
+            "Lumineon",
+            "Maractus",
+            "Shellos",
+            "Tatsugiri",
+            "Tatsugiri (Curly)",
+            "Tatsugiri (Droopy)",
+            "Tatsugiri (Stretchy)"
+        ]
+    },
+    {
+        "name": "Mandíbula Fuerte",
+        "effect": "La poderosa mandíbula del Pokémon aumenta la potencia de sus movimientos de mordisco.",
+        "pokemons": [
+            "Boltund",
+            "Bruxish",
+            "Chewtle",
+            "Dracovish",
+            "Drednaw",
+            "Drednaw (Gmax)",
+            "Gumshoos (Totem)",
+            "Hisuian Avalugg",
+            "Mega Sharpedo",
+            "Yungoos"
+        ]
+    },
+    {
+        "name": "Robustez",
+        "effect": "El Pokémon no puede ser debilitado de un solo golpe mientras tenga todos sus PS. Los movimientos KO instantáneo también fallarán.",
+        "pokemons": [
+            "Alolan Geodude",
+            "Alolan Golem",
+            "Alolan Graveler",
+            "Archaludon",
+            "Garganacl",
+            "Hisuian Avalugg",
+            "Nacli",
+            "Naclstack",
+            "Ogerpon (Cornerstone Mask)",
+            "Togedemaru (Totem)"
+        ]
+    },
+    {
+        "name": "Ventosas",
+        "effect": "El Pokémon utiliza ventosas para permanecer en su sitio, protegiéndose de movimientos y objetos que lo obliguen a cambiar.",
+        "pokemons": [
+            "Cradily",
+            "Inkay",
+            "Lileep",
+            "Malamar",
+            "Octillery"
+        ]
+    },
+    {
+        "name": "Afortunado",
+        "effect": "La gran suerte del Pokémon aumenta la probabilidad de golpes críticos.",
+        "pokemons": [
+            "Absol",
+            "Honchkrow",
+            "Murkrow",
+            "Pidove",
+            "Togekiss",
+            "Togepi",
+            "Togetic",
+            "Tranquill",
+            "Unfezant"
+        ]
+    },
+    {
+        "name": "Jarabe Dulce",
+        "effect": "Reduce en un nivel la evasión de los Pokémon rivales la primera vez que entra en combate.",
+        "pokemons": [
+            "Dipplin",
+            "Hydrapple"
+        ]
+    },
+    {
+        "name": "General Supremo",
+        "effect": "Cuando el Pokémon entra en combate, su Ataque y Ataque Especial aumentan ligeramente por cada aliado derrotado de su equipo.",
+        "pokemons": [
+            "Kingambit"
+        ]
+    },
+    {
+        "name": "Cola Surf",
+        "effect": "Duplica la Velocidad del Pokémon mientras el Campo Eléctrico esté activo.",
+        "pokemons": [
+            "Alolan Raichu",
+            "Raichu"
+        ]
+    },
+    {
+        "name": "Enjambre",
+        "effect": "Potencia los movimientos de tipo Bicho cuando los PS del Pokémon son bajos.",
+        "pokemons": [
+            "Blipbug",
+            "Dottler",
+            "Grubbin",
+            "Kleavor",
+            "Larvesta",
+            "Lokix",
+            "Nymble",
+            "Orbeetle",
+            "Orbeetle (Gmax)",
+            "Volcarona"
+        ]
+    },
+    {
+        "name": "Velo Dulce",
+        "effect": "Evita que el Pokémon y sus aliados se duerman.",
+        "pokemons": [
+            "Alcremie",
+            "Alcremie (Gmax)",
+            "Bounsweet",
+            "Cutiefly",
+            "Milcery",
+            "Ribombee",
+            "Ribombee (Totem)",
+            "Slurpuff",
+            "Steenee",
+            "Tsareena"
+        ]
+    },
+    {
+        "name": "Nado Rápido",
+        "effect": "Aumenta la Velocidad del Pokémon cuando está lloviendo.",
+        "pokemons": [
+            "Arrokuda",
+            "Barraskewda",
+            "Basculegion",
+            "Basculegion (Female)",
+            "Chewtle",
+            "Drednaw",
+            "Drednaw (Gmax)",
+            "Hisuian Qwilfish",
+            "Mega Swampert",
+            "Overqwil"
+        ]
+    },
+    {
+        "name": "Espada Funesta",
+        "effect": "El poder de la espada maldita reduce la Defensa de todos los Pokémon excepto la suya.",
+        "pokemons": [
+            "Chien-Pao"
+        ]
+    },
+    {
+        "name": "Simbiosis",
+        "effect": "El Pokémon entrega su objeto equipado a un aliado que haya consumido el suyo.",
+        "pokemons": [
+            "Flabébé",
+            "Floette",
+            "Floette (Eternal)",
+            "Florges",
+            "Oranguru"
+        ]
+    },
+    {
+        "name": "Sincronía",
+        "effect": "Si el Pokémon es quemado, paralizado o envenenado por otro Pokémon, este sufrirá el mismo problema de estado.",
+        "pokemons": [
+            "Beheeyem",
+            "Elgyem",
+            "Gardevoir",
+            "Indeedee",
+            "Indeedee (Female)",
+            "Indeedee (Male)",
+            "Kirlia",
+            "Munna",
+            "Musharna",
+            "Rabsca"
+        ]
+    },
+    {
+        "name": "Tablas Funestas",
+        "effect": "El poder de las tablas malditas reduce el Ataque de todos los Pokémon excepto el suyo.",
+        "pokemons": [
+            "Wo-Chien"
+        ]
+    },
+    {
+        "name": "Pies Enredados",
+        "effect": "Aumenta la evasión del Pokémon cuando está confundido.",
+        "pokemons": [
+            "Chatot",
+            "Dodrio",
+            "Doduo",
+            "Flamigo",
+            "Mr. Rime",
+            "Pidgeot",
+            "Pidgeotto",
+            "Pidgey",
+            "Spinda"
+        ]
+    },
+    {
+        "name": "Melena Rizada",
+        "effect": "El contacto con el Pokémon reduce la Velocidad del atacante.",
+        "pokemons": [
+            "Alolan Diglett",
+            "Alolan Dugtrio"
+        ]
+    },
+    {
+        "name": "Experto",
+        "effect": "Potencia los movimientos débiles para que el Pokémon cause más daño.",
+        "pokemons": [
+            "Alolan Meowth",
+            "Alolan Persian",
+            "Maushold (Family Of Four)",
+            "Maushold (Family Of Three)",
+            "Mega Scizor",
+            "Meowth (Gmax)",
+            "Toxtricity (Amped Gmax)",
+            "Toxtricity (Amped)",
+            "Toxtricity (Low Key Gmax)",
+            "Toxtricity (Low Key)"
+        ]
+    },
+    {
+        "name": "Telepatía",
+        "effect": "El Pokémon prevé y esquiva los ataques de sus aliados.",
+        "pokemons": [
+            "Blipbug",
+            "Dialga (Origin)",
+            "Dottler",
+            "Giratina (Altered)",
+            "Orbeetle",
+            "Orbeetle (Gmax)",
+            "Palkia (Origin)",
+            "Rabsca",
+            "Tapu Bulu",
+            "Tapu Fini"
+        ]
+    },
+    {
+        "name": "Caparazón Teracristal",
+        "effect": "El caparazón del Pokémon contiene el poder de todos los tipos. Mientras tenga todos sus PS, todos los movimientos que le golpeen no serán muy eficaces.",
+        "pokemons": [
+            "Terapagos (Terastal)"
+        ]
+    },
+    {
+        "name": "Cambio Teracristal",
+        "effect": "Cuando el Pokémon entra en combate, absorbe la energía de su entorno y se transforma en su Forma Teracristal.",
+        "pokemons": [
+            "Terapagos"
+        ]
+    },
+    {
+        "name": "Teraformación Cero",
+        "effect": "Cuando Terapagos adopta su Forma Astral, utiliza sus poderes ocultos para eliminar todos los efectos de clima y terreno.",
+        "pokemons": [
+            "Terapagos (Stellar)"
+        ]
+    },
+    {
+        "name": "Terravoltaje",
+        "effect": "Los movimientos del Pokémon no se ven afectados por la habilidad del objetivo.",
+        "pokemons": [
+            "Kyurem (Black)",
+            "Zekrom"
+        ]
+    },
+    {
+        "name": "Intercambio Térmico",
+        "effect": "Aumenta el Ataque cuando el Pokémon es golpeado por un movimiento de tipo Fuego. Además, no puede sufrir quemaduras.",
+        "pokemons": [
+            "Arctibax",
+            "Baxcalibur",
+            "Frigibax"
+        ]
+    },
+    {
+        "name": "Sebo",
+        "effect": "El Pokémon está protegido por una gruesa capa de grasa que reduce a la mitad el daño recibido de movimientos de tipo Fuego y Hielo.",
+        "pokemons": [
+            "Alolan Raticate",
+            "Alolan Rattata",
+            "Appletun (Gmax)",
+            "Cetitan",
+            "Cetoddle",
+            "Mega Venusaur",
+            "Oinkologne (Female)",
+            "Oinkologne (Male)",
+            "Raticate (Totem Alola)",
+            "Snorlax (Gmax)"
+        ]
+    },
+    {
+        "name": "Cromolente",
+        "effect": "Los movimientos poco eficaces infligen daño normal.",
+        "pokemons": [
+            "Butterfree (Gmax)",
+            "Hisuian Braviary",
+            "Hoothoot",
+            "Illumise",
+            "Lokix",
+            "Mothim",
+            "Noctowl",
+            "Nymble",
+            "Sigilyph",
+            "Yanmega"
+        ]
+    },
+    {
+        "name": "Torrente",
+        "effect": "Potencia los movimientos de tipo Agua cuando los PS del Pokémon son bajos.",
+        "pokemons": [
+            "Blastoise (Gmax)",
+            "Drizzile",
+            "Hisuian Samurott",
+            "Inteleon",
+            "Inteleon (Gmax)",
+            "Primarina",
+            "Quaquaval",
+            "Quaxly",
+            "Quaxwell",
+            "Sobble"
+        ]
+    },
+    {
+        "name": "Garra Dura",
+        "effect": "Potencia los movimientos que hacen contacto directo.",
+        "pokemons": [
+            "Barbaracle",
+            "Binacle",
+            "Galarian Meowth",
+            "Lycanroc",
+            "Lycanroc (Dusk)",
+            "Mega Aerodactyl",
+            "Mega Barbaracle",
+            "Mega Charizard X",
+            "Mega Metagross",
+            "Perrserker"
+        ]
+    },
+    {
+        "name": "Ímpetu Tóxico",
+        "effect": "Potencia los movimientos físicos cuando el Pokémon está envenenado.",
+        "pokemons": [
+            "Zangoose"
+        ]
+    },
+    {
+        "name": "Cadena Tóxica",
+        "effect": "La cadena venenosa del Pokémon puede intoxicar gravemente a cualquier objetivo que golpee con un movimiento.",
+        "pokemons": [
+            "Fezandipiti",
+            "Munkidori",
+            "Okidogi"
+        ]
+    },
+    {
+        "name": "Desechos Tóxicos",
+        "effect": "Esparce Púas Tóxicas en el lado rival cuando el Pokémon recibe daño de movimientos físicos.",
+        "pokemons": [
+            "Glimmet",
+            "Glimmora"
+        ]
+    },
+    {
+        "name": "Rastro",
+        "effect": "La habilidad del Pokémon se convierte en la del rival. Al retirarse del combate recupera su habilidad original. En combates dobles copia una habilidad rival al azar.",
+        "pokemons": [
+            "Gardevoir",
+            "Kirlia",
+            "Mega Alakazam",
+            "Mega Meowstic",
+            "Porygon",
+            "Porygon2",
+            "Ralts"
+        ]
+    },
+    {
+        "name": "Transistor",
+        "effect": "Potencia los movimientos de tipo Eléctrico.",
+        "pokemons": [
+            "Regieleki"
+        ]
+    },
+    {
+        "name": "Primer Auxilio",
+        "effect": "Otorga prioridad a los movimientos curativos del Pokémon.",
+        "pokemons": [
+            "Comfey"
+        ]
+    },
+    {
+        "name": "Ausente",
+        "effect": "Cada vez que el Pokémon usa un movimiento, pasa el siguiente turno holgazaneando.",
+        "pokemons": [
+            "Durant",
+            "Slaking",
+            "Slakoth"
+        ]
+    },
+    {
+        "name": "Turbollama",
+        "effect": "Los movimientos del Pokémon no se ven afectados por la habilidad del objetivo.",
+        "pokemons": [
+            "Kyurem (White)",
+            "Reshiram"
+        ]
+    },
+    {
+        "name": "Ignorante",
+        "effect": "Al atacar, el Pokémon ignora los cambios de estadísticas del objetivo.",
+        "pokemons": [
+            "Clodsire",
+            "Cosmog",
+            "Crocalor",
+            "Dondozo",
+            "Fuecoco",
+            "Paldean Wooper",
+            "Pyukumuku",
+            "Skeledirge",
+            "Swoobat",
+            "Woobat"
+        ]
+    },
+    {
+        "name": "Liviano",
+        "effect": "Aumenta la Velocidad si el Pokémon consume o pierde su objeto equipado.",
+        "pokemons": [
+            "Accelgor",
+            "Grafaiai",
+            "Hawlucha",
+            "Liepard",
+            "Nickit",
+            "Shroodle",
+            "Slurpuff",
+            "Sneasler",
+            "Swirlix",
+            "Thievul"
+        ]
+    },
+    {
+        "name": "Nerviosismo",
+        "effect": "Pone nerviosos a los Pokémon rivales, impidiéndoles comer Bayas.",
+        "pokemons": [
+            "Bewear",
+            "Calyrex",
+            "Corviknight",
+            "Corviknight (Gmax)",
+            "Corvisquire",
+            "Galarian Meowth",
+            "Meowth (Gmax)",
+            "Pyroar (Male)",
+            "Rookidee",
+            "Ursaluna"
+        ]
+    },
+    {
+        "name": "Puño Invisible",
+        "effect": "El Pokémon puede infligir daño con movimientos de contacto incluso si el objetivo está protegido.",
+        "pokemons": [
+            "Mega Golurk",
+            "Urshifu",
+            "Urshifu (Rapid Strike Gmax)",
+            "Urshifu (Rapid Strike)",
+            "Urshifu (Single Strike Gmax)",
+            "Urshifu (Single Strike)"
+        ]
+    },
+    {
+        "name": "Caldero Funesto",
+        "effect": "El poder del recipiente maldito reduce el Ataque Especial de todos los Pokémon excepto el suyo.",
+        "pokemons": [
+            "Ting-Lu"
+        ]
+    },
+    {
+        "name": "Victoria Estelar",
+        "effect": "Aumenta la precisión del Pokémon y de sus aliados.",
+        "pokemons": [
+            "Victini"
+        ]
+    },
+    {
+        "name": "Espíritu Vital",
+        "effect": "La vitalidad del Pokémon evita que se duerma.",
+        "pokemons": [
+            "Annihilape",
+            "Electivire",
+            "Elekid",
+            "Galarian Mr. Mime",
+            "Lillipup",
+            "Lycanroc (Midnight)",
+            "Magby",
+            "Magmortar",
+            "Rockruff",
+            "Vigoroth"
+        ]
+    }
+]

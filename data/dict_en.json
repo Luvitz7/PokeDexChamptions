@@ -1,0 +1,36 @@
+{
+    "comands" : {
+        "poke": "Displays information about the specified Pokémon.",
+        "poke_help": "Displays this help message.",
+        "poke_move": "Displays information about the specified move.",
+        "poke_ability": "Displays information about the specified ability."
+    },
+    "errors": {
+        "poke_not_found": "The specified Pokémon was not found.",
+        "move_not_found": "The specified move was not found.",
+        "ability_not_found": "The specified ability was not found."
+    },
+    "stats": {
+        "hp": "Hp",
+        "attack": "Attack",
+        "defense": "Defense",
+        "special-attack": "Special Attack",
+        "special-defense": "Special Defense",
+        "speed": "Speed"
+    },
+    "characteristics": {
+        "height" : "Height",
+        "weight" : "Weight",
+        "abilities" : "Abilities",
+        "types" : "Types",
+        "bst" : "Base Stat Total",
+        "category" : "Category",
+        "power" : "Power",
+        "usage" : "Usage",
+        "accuracy" : "Accuracy",
+        "effect" : "Effect",
+        "poke_ability" : "Pokémon with this Ability", 
+        "total_poke_ability" : "Total Pokémon with this ability:",
+        "stats" : "Stats"
+    }
+}
