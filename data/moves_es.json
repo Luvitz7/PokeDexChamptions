@@ -150,7 +150,7 @@
         "effect": "El usuario dispersa un irritante polvo que atrae la atención. Los rivales solo podrán atacar al usuario."
     },
     {
-        "name": "Envite Ígneo",
+        "name": "Erupción",
         "type": "Fuego",
         "category": "Físico",
         "usage": "1.5%",
